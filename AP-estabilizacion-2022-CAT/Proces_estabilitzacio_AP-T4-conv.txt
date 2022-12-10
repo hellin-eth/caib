@@ -1,0 +1,360 @@
+﻿1. La seu electrònica d’una administració pública és:
+a) La seu física principal d’una administració que disposa de tots els mitjans electrònics necessaris per oferir a la ciutadania.
+b) La plana web de l’Administració.
+c) La direcció electrònica de Administració disponible per a la ciutadania a través de xarxes de telecomunicacions.
+d) L’Oficina Assistencial en Matèria de Registres principal de l’Administració.
+
+2. Quina normativa regula el concepte de seu electrònica?
+a) L’article 38 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+b) L’article 38 de la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic.
+c) L’article 39 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+d) L’article 39 de la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic.
+
+3. Quina de les següents normatives no té cap article específic per a la seu electrònica?
+a) Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics.
+b) La Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+c) La Llei 40/2015, d’1 d’octubre, del règim jurídic del sector públic.
+d) Totes les normatives anteriors tenen un article específic que regula la seu electrònica.
+
+4. En matèria d’actuació i funcionament del sector públic per mitjans electrònics, senyalau la resposta correcta d’acord amb les característiques d’una seu electrònica:
+a) Una seu electrònica és una adreça electrònica.
+b) La titularitat d’una seu correspon únicament a una administració pública.
+c) La seu electrònica únicament és accessible per al personal funcionari o laboral de l’administració pública titularitat de la seu.
+d) Totes les respostes són correctes.
+
+5. La seu electrònica és:
+a) L’adreça electrònica disponible per als empleats d’una administració pública a través de la intranet corporativa, la titularitat de la qual correspon a una administració pública, o bé a un o diversos organismes públics o entitats de dret públic en l’exercici de les seves competències.
+b) El punt d’accés electrònic que permet l’accés a través d’Internet a la informació publicada, la titularitat de la qual correspon a una administració pública, o bé a un o diversos organismes públics o entitats de dret públic en l’exercici de les seves competències.
+c) És un espai personal en línia que facilita la relació de tot ciutadà amb les administracions públiques.
+d) Totes les respostes són incorrectes.
+
+6. En matèria de funcionament del sector públic per mitjans electrònics, es poden crear seus electròniques associades?
+a) No, aquest concepte no existeix.
+b) Sí, per raons tècniques i organitzatives.
+c) Sí, per raons tècniques i procedimentals.
+d) No, la seu electrònica és única.
+
+7. L’Administració pública de les Illes Balears disposa d’un punt d’accés electrònic que permet l’accés a través d’Internet a la informació publicada i també a la seva seu electrònica. Quin és el nom correcte d’aquest punt d’accés?
+a) Lloc web.
+b) Portal d’Internet.
+c) Intranet.
+d) Microlloc web.
+
+8. El portal d’Internet que aglutina o condueix a les seus associades dels òrgans d’una administració pública i a les seus electròniques dels seus organismes públics i entitats de dret públic vinculats o dependents d’aquesta administració es diu:
+a) Punt d’accés general.
+b) Registre general electrònic.
+c) Portal-seu.
+d) Seu electrònica principal.
+
+9. Quin és l’element a través del qual s’efectuen totes les actuacions i tràmits referits a procediments o a serveis que requereixen la identificació de l’Administració pública?
+a) La seu electrònica.
+b) El portal d’Internet.
+c) La carpeta ciutadana.
+d) Totes les respostes són incorrectes.
+
+10. Quin concepte es defineix com  «La direcció electrònica disponible per a la ciutadania a través de xarxes de telecomunicacions, la titularitat de la qual correspon a una administració pública, o bé a un o diversos organismes públics o entitats de dret públic en l’exercici de les seves competències»?
+a) La seu electrònica.
+b) L’administració electrònica.
+c) La seu electrònica habilitada.
+d) Totes les respostes són incorrectes.
+
+11. La titularitat de la seu electrònica correspon a:
+a) Una administració pública.
+b) Un únic organisme públic o entitat de dret públic.
+c) Un o més organismes públics o entitats de dret públic.
+d) Les respostes a) i c) són correctes.
+
+12. En matèria de seu electrònica a una administració pública, senyalau la resposta correcta:
+a) Les seus electròniques han de disposar de sistemes que permetin establir comunicacions segures sempre que siguin possibles.
+b) Les seus electròniques han de disposar de sistemes que permetin establir comunicacions segures sempre que siguin necessàries.
+c) Les seus electròniques han de disposar de sistemes que permetin establir comunicacions xifrades sempre que siguin necessàries.
+d) Les seus electròniques han de disposar de sistemes que permetin establir comunicacions xifrades sempre que siguin possibles.
+
+13. D’acord amb l’article 38 de la Llei 40/2015, d’1 d’octubre, de règim jurídic del sector públic, senyalau la resposta correcta:
+a) Les seus electròniques han d’utilitzar, per identificar-se i garantir una comunicació segura amb aquestes seus, certificats reconeguts o qualificats d’autenticació de lloc web o un mitjà equivalent.
+b) Les seus electròniques han d’utilitzar, per identificar-se i garantir una comunicació segura amb aquestes seus, certificats reconeguts i qualificats d’autenticació de lloc web o un mitjà equivalent.
+c) Les seus electròniques han d’utilitzar, per identificar-se i garantir una comunicació segura amb aquestes seus, certificats reconeguts o qualificats d’autenticació de lloc web expedits per la Fàbrica Nacional de Moneda i Timbre.
+d) Les seus electròniques han d’utilitzar, per identificar-se i garantir una comunicació segura amb aquestes seus, certificats reconeguts i qualificats d’autenticació de lloc web expedits per la Fàbrica Nacional de Moneda i Timbre.
+
+14. Quin dels següents serveis ha de formar part d’una seu electrònica?
+a) Un enllaç per formular queixes i suggeriments.
+b) Un sistema  de comprovació de l’autenticitat de documents electrònics emesos per qualsevol administració pública.
+c) Un sistema de missatgeria per contactar amb qualsevol òrgan administratiu comprès en l’àmbit de la seu electrònica.
+d) Un espai personal on cada ciutadà pot custodiar informació i compartir amb l’Administració pública.
+
+15. Quina de les següents opcions inclou elements que formen part del contingut mínim d’una seu electrònica?
+a) La identificació de la seu, la data oficial i la normativa reguladora del sistema de tramitació electrònica al qual s’accedeix mitjançant la seu.
+b) La identificació de la seu, l’hora oficial i el calendari de dies hàbils.
+c) La normativa reguladora del registre al qual s’accedeix mitjançant la seu i el calendari de dies hàbils.
+d) La data oficial, l’hora oficial i el calendari de dies inhàbils.
+
+16. Tota seu electrònica ha de contenir una relació actualitzada de certs elements. De quins elements es tracta?
+a) Procediments.
+b) Serveis.
+c) Tràmits.
+d) Totes les respostes són correctes.
+
+17. Quina és la seu electrònica de l’Administració de la Comunitat Autònoma de les Illes Balears?
+a) http://www.caib.es.
+b) http://www.illesbalears.cat.
+c) https://www.caib.es.
+d) https://www.illesbalears.cat.
+
+18. La seu electrònica del Govern de les Illes Balears classifica els procediments i els serveis en blocs per diferenciar a quin col·lectiu es dirigeixen. Quins són aquests blocs?
+a) Persones, empreses i administracions.
+b) Ciutadans i empleats públics.
+c) Persones i empreses.
+d) Persones, empreses i òrgans administratius.
+
+19. Quan es publica un procediment o un servei a la seu electrònica del Govern de les Illes Balears, es pot dirigir a més d’un públic objectiu?
+a) No, únicament es pot dirigir a un públic objectiu.
+b) Sí, es pot dirigir a dos públics objectius a l’hora, però no a més d’un.
+c) El concepte de públic objectiu no es pot observar a la seu electrònica del Govern de les Illes Balears.
+d) Sí.
+
+20. La seu electrònica del Govern de les Illes Balears permet fer cerques personalitzades sobre els procediments i els serveis que hi estan publicats?
+a) No, per fer cerques sobre els procediments i els serveis, primer cal fer una exportació a un full de càlcul en format de dades obertes.
+b) No, únicament es pot cercar pel nom del procediment o del servei.
+c) Sí, es poden filtrar els procediments i els serveis per qualsevol tipus d’informació.
+d) Sí, es poden filtrar els procediments i els serveis per a aquells camps que estiguin tipificats.
+
+21. Quina de les següents opcions és informació que contenen els procediments i els serveis que estan publicats a la seu electrònica del Govern de les Illes Balears?
+a) La matèria.
+b) L’òrgan o el servei instructor.
+c) El tipus de procediment.
+d) Totes les respostes són correctes.
+
+22. A la seu electrònica del Govern de les Illes Balears es poden cercar aquells procediments que tenguin el termini de presentació obert?
+a) Sí, sempre que tenguin un tràmit telemàtic assignat.
+b) No, la seu no permet aquest tipus de cerca.
+c) Sí.
+d) No, ja que només es pot cercar sobre terminis en cas de serveis.
+
+23. Senyalau la resposta incorrecta en matèria de cerques sobre la seu electrònica del Govern de les Illes Balears:
+a) La seu permet fer cerques de procediments amb el termini de presentació tancat.
+b) La seu permet fer cerques de procediments filtrant segons el tipus de procediment.
+c) La seu permet fer cerques de procediments filtrant segons la matèria.
+d) La seu permet fer cerques de procediments per nom.
+
+24. A la seu electrònica del Govern de les Illes Balears, un procediment es pot classificar, entre d’altres, segons els tipus següents:
+a) Subvencions, ajuts, beques i descomptes.
+b) Titulacions, acreditacions i cursos.
+c) Infraccions i sancions.
+d) Reclamacions, denúncies i multes.
+
+25. Quina de les següents matèries no forma part de les matèries classificables a les quals es pot associar un procediment que es publica a la seu electrònica del Govern de les Illes Balears?
+a) Transport.
+b) Energia.
+c) Indústria.
+d) Subvenció.
+
+26. Quin és el nom de l’aplicació corporativa per a gestionar els continguts de la seu electrònica del Govern de les Illes Balears?
+a) ROLSAC.
+b) GUSITE.
+c) HELIUM.
+d) RIPEA.
+
+27. A qui correspon la gestió i l’administració de la seu electrònica del Govern de les Illes Balears?
+a) Al servei responsable de les tecnologies i les comunicacions de cada conselleria o òrgan dependent.
+b) A la Direcció General de Modernització i Administració Digital.
+c) A la Conselleria d'Administracions Públiques i Igualtat.
+d) A la Fundació Balear d’Innovació i Tecnologia.
+
+28. En matèria de la seu electrònica del Govern de les Illes Balears, a quina normativa ens podem acollir per trobar-ne la referència?
+a) La Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+b) La Llei 40/2015, d’1 d’octubre, del règim jurídic del sector públic.
+c) El Decret 113/2010, de 5 de novembre, d’accés electrònic als serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+d) Totes les respostes són correctes.
+
+29. Si accedim als detalls d’un procediment publicat a la seu electrònica del Govern de les Illes Balears, trobarem un codi que l’identifica. Quin és aquest codi?
+a) El codi SIA.
+b) El codi CSV.
+c) El codi DIR3.
+d) El codi QSSI.
+
+30. Quina de les següents opcions no apareix si accedim als detalls d’un procediment publicat a la seu electrònica del Govern de les Illes Balears?
+a) Les persones destinatàries.
+b) El termini per resoldre i tancar l’expedient.
+c) La forma d’inici.
+d) L’òrgan competent per resoldre.
+
+31. Una de les dades que conté tot procediment publicat a la seu electrònica del Govern de les Illes Balears és el codi SIA. A què fan referència aquestes sigles?
+a) Sistema d’Informació Administrativa.
+b) Sistema d’Identificació Administrativa.
+c) Sistema d’Interconnexió Administrativa.
+d) Sistema d’Interoperabilitat Administrativa.
+
+32. Si accedim al tràmit telemàtic d’un procediment publicat a la seu electrònica del Govern de les Illes Balears, ens condueix a una plataforma de tramitació telemàtica. Quin és el nom corporatiu d’aquesta plataforma?
+a) HELIUM.
+b) RIPEA.
+c) SISTRA.
+d) ROLSAC.
+
+33. En relació amb la informació institucional i organitzativa, el Portal de Transparència de la Comunitat Autònoma de les Illes Balears inclou o enllaça a:
+a) L’organigrama i les funcions o competències de cada òrgan.
+b) La identificació dels responsables dels diferents òrgans.
+c) La trajectòria professional dels responsables dels diferents òrgans.
+d) Totes les respostes són correctes.
+
+34. Senyalau quina de les següents dades dels diversos càrrecs públics del Govern de les Illes Balears no s’inclouen en el Portal de Transparència de la Comunitat Autònoma de les Illes Balears:
+a) Currículum, adhesió al codi ètic, declaració de béns i activitats i d’IRPF, i retribucions.
+b) Data de naixement, estudis i experiència professional.
+c) Agenda amb els seus actes i tipus d’esdeveniment, detallats per data i lloc.
+d) Llistat de viatges, allotjament i transport, inclosos també els fets per motius personals.
+
+35. Cada un dels membres del Govern de les Illes Balears ha de signar una declaració d’adhesió al codi ètic del Govern de les Illes Balears, i publicar-la al Portal de Transparència. Què no es declara en aquest document?
+a) Disposar d’un exemplar del codi ètic.
+b) Compliment dels drets i deures en la relació amb la ciutadania de les Illes Balears.
+c) Compromís de facilitar la divulgació i l’aplicació del codi ètic del Govern de les Illes Balears.
+d) Autorització a publicar les dades de declaracions de patrimoni i d’interessos i activitats.
+
+36. Les memòries i els informes que conformen els expedients d'elaboració de texts normatius es publiquen en el Portal de Transparència de la Comunitat Autònoma de les Illes Balears. De quin tipus d’informació es tracta, d’acord amb la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern?
+a) Informació de rellevància jurídica.
+b) Informació econòmica, pressupostària o estadística.
+c) Informació institucional, organitzativa i de planificació.
+d) No és un tipus d'informació que preveu la Llei de transparència.
+
+37. El Portal de Transparència de la Comunitat Autònoma de les Illes Balears publica informació que respon a les exigències de publicitat activa següents:
+a) Les que preveuen els articles 6 a 8 de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació i bon govern.
+b) Les que estableix la Llei 4/2011, de 31 de març, de la bona administració i el bon govern de les Illes Balears.
+c) Les que preveu el codi ètic del Govern de les Illes Balears, aprovat mitjançant l’Acord del Consell de Govern de dia 13 de maig de 2016.
+d) Totes les respostes són correctes.
+
+38. El Portal de Transparència de la Comunitat Autònoma de les Illes Balears té un apartat en el qual fa esment als obsequis que rep un càrrec públic. Senyalau la resposta correcta d’acord amb el codi ètic del Govern de les Illes Balears:
+a) Els càrrecs públics poden acceptar regals, com a regla general.
+b) Els càrrecs públics poden acceptar qualsevol tipus de regal, sempre que s’introdueixi en el Registre d’Atencions Protocol·làries i Obsequis.
+c) Els càrrecs públics poden acceptar regals, sempre que quedi totalment descartada qualsevol situació aparent de conflicte d’interès i que tengui un valor d’escassa quantia.
+d) Les respostes b) i c) són correctes.
+
+39. D’acord amb l’article 8 de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, els organismes i les entitats del sector públic han de fer pública la informació relativa als actes de gestió administrativa amb repercussió econòmica o pressupostària. Quina de la següent informació no és d’obligada publicació?
+a) Tots els contractes.
+b) Les subvencions i ajudes públiques concedides.
+c) Les retribucions percebudes anualment per tot el personal.
+d) Els pressuposts.
+
+40. D’acord amb la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, quina de les següents accions contradiu els principis generals de la publicitat activa?
+a) Publicar informació en formats propietaris.
+b) Publicar informació a la seu electrònica de manera clara i estructurada.
+c) Publicar informació d’accés fàcil i gratuït.
+d) Publicar informació a disposició de les persones amb discapacitat.
+
+41. Podria ser el cas que alguna informació que s’hagi de publicar en el Portal de Transparència de la Comunitat Autònoma de les Illes Balears faci referència a dades especialment protegides. Què s’ha de fer en aquest cas, d’acord amb l’article 5 de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern?
+a) No publicar aquesta informació, de cap manera.
+b) Publicar-la en la seva totalitat, ja que es tracta d’informació de publicitat obligada.
+c) S’ha de fer una dissociació prèvia de les dades.
+d) Publicar la informació de manera que l’accés a les dades sigui posterior a un pagament telemàtic d’una taxa.
+
+42. D’acord amb la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, on s’ha de publicar la informació subjecta a les obligacions de transparència del Govern de les Illes Balears?
+a) En les xarxes socials de perfil públic.
+b) En el tauler d’anuncis de cada oficina assistencial en matèria de registres.
+c) En la seu electrònica o pàgina web.
+d) En el Butlletí Oficial de les Illes Balears.
+
+43. D’acord amb la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, com s’ha de publicar la informació subjecta a les obligacions de transparència del Govern de les Illes Balears?
+a) De manera clara i estructurada.
+b) De manera entenedora pels interessats.
+c) En formats reutilitzables, preferiblement.
+d) Totes les respostes són correctes.
+
+44. D’acord amb l’article 11 de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, la informació subjecta a les obligacions de transparència s’ha d’adequar a un conjunt de principis tècnics. Quina de les següents opcions no és un principi tècnic?
+a) Accessibilitat.
+b) Interoperabilitat.
+c) Transparència.
+d) Reutilització.
+
+45. D’acord amb l’article 11 de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, la informació subjecta a les obligacions de transparència s’ha d’adequar a un conjunt de principis tècnics. Quin és el nom del principi tècnic que fomenta que la informació sigui publicada en formats que en permetin la reutilització?
+a) Accessibilitat.
+b) Interoperabilitat.
+c) Disseny universal.
+d) Totes les respostes són incorrectes.
+
+46. D’acord amb l’article 11 de la Llei 19/2013, de transparència, accés a la informació pública i bon govern, la informació subjecta a les obligacions de transparència s’ha d’adequar a un conjunt de principis tècnics. Quin és el nom del principi tècnic que fa referència a proporcionar la informació de forma estructurada de manera que faciliti la identificació i la recerca d’informació?
+a) Accessibilitat.
+b) Interoperabilitat.
+c) Disseny universal.
+d) Reutilització.
+
+47. Indicau la resposta correcta. El Portal de Transparència de la Comunitat Autònoma de les Illes Balears s’ha d’adequar als principis tècnics següents:
+a) Accessibilitat, interoperabilitat i reutilització.
+b) Igualtat, mèrit i capacitat.
+c) Transparència, eficàcia i eficiència.
+d) Accessibilitat, informació pública i transparència.
+
+48. Segons la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, quin tipus d’informació han de publicar les administracions públiques?
+a) Organitzativa, estructural i conjuntural.
+b) Institucional, organitzativa i de planificació.
+c) Econòmica, pressupostària i estadística.
+d) Les respostes b) i c) són correctes.
+
+49. A quina d’aquestes entitats s’aplica el títol I de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern?
+a) A l’Ajuntament de Palma.
+b) Al Congrés dels Diputats.
+c) A la Comunitat Autònoma d’Extremadura.
+d) Totes les respostes són correctes.
+
+50. Indicau la resposta correcta. Segons l’article 7 de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, les administracions públiques, en l’àmbit de les seves competències, han de publicar:
+a) Els avantprojectes de llei.
+b) Els projectes de reglament.
+c) Els avantprojectes de decret llei.
+d) Les respostes a) i b) són correctes.
+
+51. Quins blocs d’informació es publiquen en el Portal de Transparència de la Comunitat Autònoma de les Illes Balears?
+a) Ètica i bon govern.
+b) Economia i finances.
+c) Contractes, convenis, encàrrecs de gestió i subvencions.
+d) Totes les respostes són correctes.
+
+52. En l’apartat ‘Informació jurídica’ del Portal de Transparència de les Illes Balears, quina d’aquestes informacions no s’hi publica?
+a) Les competències transferides a la Comunitat Autònoma.
+b) El sou dels càrrecs polítics.
+c) Els dictàmens del Consell Econòmic i Social.
+d) La normativa que es troba en tramitació.
+
+53. En relació amb la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, què és la publicitat activa?
+a) L’obligació de les administracions de fer pública la informació d’interès per als ciutadans quan aquests ciutadans la sol·liciten.
+b) L’obligació de les administracions de fer pública la informació d’interès per als ciutadans sense que aquests ciutadans l’hagin sol·licitat.
+c) El dret dels ciutadans de sol·licitar accés a la informació pública.
+d) La publicitat que està en suport electrònic.
+
+54. En relació amb la transparència, quina diferència hi ha entre la publicitat activa i la publicitat passiva?
+a) La publicitat activa és dinàmica i la publicitat passiva és immòbil.
+b) La publicitat activa es basa en una obligació per a les administracions públiques i la publicitat passiva es fonamenta en un dret dels ciutadans d’accedir a la informació pública.
+c) La publicitat activa es fonamenta en un dret dels ciutadans d’accedir a la informació pública i la publicitat passiva es basa en una obligació per a les administracions públiques.
+d) Totes les respostes són incorrectes.
+
+55. En què es basa la publicitat activa segons la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern?
+a) En l’obligació de les administracions públiques de publicar de forma periòdica i actualitzada informació institucional, organitzativa i de planificació.
+b) En l’obligació de les administracions públiques de publicar de forma periòdica i actualitzada informació de rellevància jurídica.
+c) En l’obligació de les administracions públiques de publicar de forma periòdica i actualitzada informació econòmica, pressupostària i estadística.
+d) Totes les respostes són correctes.
+
+56. Quina d’aquesta informació s’ha de publicar en el Portal de Transparència del Govern de les Illes Balears?
+a) Els convenis subscrits entre administracions públiques.
+b) Els convenis subscrits entre una administració pública i un particular.
+c) Les subvencions i ajudes públiques concedides.
+d) Totes les respostes són correctes.
+
+57. Quina d’aquestes informacions es publica en el bloc ‘Ètica i Bon Govern’ del Portal de Transparència del Govern de les Illes Balears?
+a) Les despeses de viatges.
+b) El sou dels empleats públics.
+c) Els regals i obsequis que reben els càrrecs polítics.
+d) Les respostes a) i c) són correctes.
+
+58. Segons la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern, l’incompliment reiterat de les obligacions de publicitat activa:
+a) És una infracció greu.
+b) És una infracció molt greu.
+c) És una infracció lleu.
+d) No és cap infracció.
+
+59. Les retribucions del personal funcionari de l’Administració de la Comunitat Autònoma de les Illes Balears són un tipus d’informació publicada en el Portal de Transparència del Govern de les Illes Balears?
+a) No, només es publiquen les retribucions dels càrrecs polítics.
+b) Sí.
+c) Només en el cas del personal de l’IB Salut.
+d) Totes les respostes són incorrectes.
+
+60. Qui té l’obligació de publicar la informació que preveu el capítol II del títol I de la Llei 19/2013, de 9 de desembre, de transparència, accés a la informació pública i bon govern?
+a) Els partits polítics.
+b) Els sindicats.
+c) Les administracions públiques.
+d) Totes les respostes són correctes.
+

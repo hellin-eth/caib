@@ -1,0 +1,336 @@
+﻿1. Quines actuacions i tràmits s’efectuen mitjançant la seu electrònica?
+a) Únicament les actuacions i els tràmits referits a procediments o a serveis que requereixin la identificació de l’Administració Pública.
+b) Únicament les actuacions i els tràmits referits a procediments o a serveis que requereixin la identificació o la signatura electrònica de les persones interessades.
+c) Totes les actuacions i els tràmits referits a procediments o a serveis que requereixin la identificació de l’Administració pública i, si s’escau, la identificació o signatura electrònica de les persones interessades.
+d) Totes les actuacions i els tràmits referits a procediments o a serveis que requereixin la identificació de l’Administració pública i, en tot cas, la identificació o la signatura electrònica de les persones interessades.
+
+2. Quina o quines característiques han de tenir les comunicacions que s’estableixin en els sistemes que han de disposar les seus electròniques?
+a) Segures, sempre que siguin necessàries.
+b) Segures i xifrades, en tot cas.
+c) Segures i fiables.
+d) Segures i, si escau, xifrades quan sigui necessària una identificació electrònica.
+
+3. En matèria d’actuació i funcionament del sector públic per mitjans electrònics, la seu electrònica associada té la consideració de seu electrònica:
+a) A l’efecte de comunicacions.
+b) A l’efecte de còmput de terminis.
+c) A l’efecte de notificació.
+d) Amb caràcter general.
+
+4. En matèria de funcionament del sector públic per mitjans electrònics, es poden crear seus electròniques vinculades?
+a) No, aquest concepte no existeix.
+b) Sí, per raons tècniques i organitzatives.
+c) Sí, per raons tècniques i procedimentals.
+d) No, la seu electrònica és única.
+
+5. No forma part dels elements obligatoris que han de constar en l’acte o la resolució de creació d’una seu electrònica:
+a) La identificació de l’òrgan o òrgans encarregats de la gestió i dels serveis posats a disposició a la seu.
+b) La identificació de la direcció de la seu electrònica de referència de la seu electrònica o seu electrònica associada que es creï.
+c) La identificació de les direccions electròniques de les seus electròniques que des del moment de la creació ja siguin associades d’aquesta seu.
+d) L’inventari de procediments i serveis existents en el moment de la creació de la seu.
+
+6. Quina de les següents no és una responsabilitat que correspon al titular de la seu electrònica de l’Administració de la Comunitat de les Illes Balears?
+a) La integritat de la informació de la seu.
+b) La veracitat de la informació de la seu
+c) L’actualització de la informació de la seu.
+d) La disponibilitat de la informació de la seu.
+
+7. Quant a aspectes temporals, quin dels elements següents és un contingut mínim del qual ha de disposar tota seu electrònica?
+a) La data oficial i el calendari de dies hàbils a efectes del còmput de terminis.
+b) La data i hora oficial, únicament.
+c) El calendari de dies hàbils a efectes del còmput de terminis.
+d) La data i hora oficial, així com també el calendari de dies inhàbils a efectes del còmput de terminis.
+
+8. Senyalau la resposta correcta en matèria del contingut mínim del qual ha de disposar una seu electrònica:
+a) La data i hora oficial, així com també el calendari de dies inhàbils a efectes de còmput de terminis aplicable a l’Administració en la qual s’integri l’òrgan, l’organisme públic o l’entitat de dret públic vinculat o dependent que sigui titular de la seu electrònica o seu electrònica associada.
+b) La data i hora oficial, així com també el calendari de dies hàbils a efectes de còmput de terminis aplicable a l’Administració en la qual s’integri l’òrgan, l’organisme públic o l’entitat de dret públic vinculat o dependent que sigui titular de la seu electrònica o seu electrònica associada.
+c) La data i hora oficial, així com també el calendari de dies inhàbils de l’any en curs, i els anteriors i posteriors, a efectes de còmput de terminis aplicable a l’Administració en la qual s’integri l’òrgan, l’organisme públic o l’entitat de dret públic vinculat o dependent que sigui titular de la seu electrònica o seu electrònica associada.
+d) La data i hora oficial, així com també el calendari de dies hàbils de l’any en curs, a efectes de còmput de terminis aplicable a l’Administració en la qual s’integri l’òrgan, l’organisme públic o l’entitat de dret públic vinculat o dependent que sigui titular de la seu electrònica o seu electrònica associada.
+
+9. Un dels continguts mínims del qual ha de disposar tota seu electrònica és aquella informació necessària per a la correcta utilització de la seu. Senyalau quina de les opcions següents pertany a aquest tipus d’informació:
+a) Mapa de la seu.
+b) Propietat intel·lectual.
+c) Manual d’ús de la seu.
+d) Accessibilitat.
+
+10. En un document signat amb un sistema de codi segur de verificació, on s’ha d’integrar l’adreça electrònica d’accés a la seu electrònica o seu electrònica associada?
+a) Juntament amb el codi segur de verificació, s’ha d’integrar, preferentment, en totes les pàgines del document signat.
+b) S’ha d’integrar en totes les pàgines del document signat.
+c) Juntament amb el codi segur de verificació, s’ha d’integrar únicament a la darrera pàgina del document signat.
+d) L’adreça electrònica d’accés a la seu forma part del codi segur de verificació, per la qual cosa, apareixerà al document.
+
+11. On s’allotja la Direcció Electrònica Habilitada única (DEHú)?
+a) A la seu electrònica del Punt d’Accés General electrònic de l’administració competent.
+b) Al Punt d’Accés General electrònic de l’Administració General de l’Estat i a totes les seves seus electròniques associades.
+c) A la seu electrònica del Punt d’Accés General electrònic de l’Administració General de l’Estat.
+d) Al Punt d’Accés General electrònic de l’administració competent.
+
+12. El nivell de seguretat en la identificació electrònica exigit en els procediments i els serveis que gestiona una entitat que pertany al sector públic:
+a) S’ha de definir i publicar a la seu electrònica.
+b) S’ha de determinar sobre la base de l’anàlisi de riscs, d’acord amb l’Esquema Nacional de Seguretat i la normativa corresponent.
+c) S’ha de determinar sobre la base de l’anàlisi de riscs, d’acord amb l’Esquema Nacional d’Interoperabilitat i la normativa corresponent.
+d) Les respostes a) i la b) són correctes.
+
+13. En matèria de sistemes de signatura electrònica del personal al servei de les administracions públiques, com han de ser els certificats electrònics d’empleat públic?
+a) Qualificats.
+b) Ajustats al que estableix l’Esquema Nacional d’Interoperabilitat.
+c) Ajustats a la legislació vigent en matèria d’identitat i signatura electrònica.
+d) Totes les respostes anteriors són correctes.
+
+14. Dins el conjunt de principis que el sector públic ha de respectar en les seves actuacions i relacions electròniques, quina de les opcions següents fa referència al principi d’interoperabilitat?
+a) La capacitat dels sistemes d’informació de compartir dades.
+b) La capacitat dels sistemes d’informació de possibilitar l’intercanvi d’informació entre si.
+c) Les respostes a) i b) són correctes.
+d) Totes les respostes anteriors són incorrectes.
+
+15. Quina de les següents opcions es considera un principi específic de l’Esquema Nacional d’Interoperabilitat?
+a) Accessibilitat a la informació i als serveis per mitjans electrònics.
+b) Enfocament de solucions paral·leles.
+c) Caràcter unidimensional de la interoperabilitat.
+d) La interoperabilitat com a qualitat integral.
+
+16. Quina de les opcions següents no es considera un principi específic de l’Esquema Nacional d’Interoperabilitat, d’acord amb l’article 4 del Reial Decret 4/2010, de 8 de gener, pel qual es regula l’Esquema Nacional d’Interoperabilitat?
+a) Reavaluació periòdica de la interoperabilitat.
+b) Enfocament de solucions multilaterals.
+c) Caràcter multidimensional de la interoperabilitat.
+d) La interoperabilitat com a qualitat integral.
+
+17. D’acord amb un dels principis específics de l’Esquema Nacional d’Interoperabilitat, en quina d’aquestes etapes del cicle de vida dels serveis i sistemes es té present la interoperabilitat de forma integral?
+a) Planificació, disseny, construcció, desplegament i explotació.
+b) Adquisició i conservació.
+c) Publicació i accés.
+d) Totes les respostes anteriors són correctes.
+
+18. D’acord amb un dels principis específics de l’Esquema Nacional d’Interoperabilitat, quina de les opcions següents no és una dimensió contemplada de la interoperabilitat?
+a) Organitzativa.
+b) Semàntica.
+c) Tècnica.
+d) Jurídica.
+
+19. D’acord amb el Reial decret 4/2010, de 8 de gener, pel qual es regula l’Esquema Nacional d’Interoperativitat, quina dimensió de la interoperabilitat és aquella que fa referència al fet que la informació intercanviada pugui ser interpretable de forma automàtica i reutilitzable per aplicacions que no van intervenir en la seva creació?
+a) Interoperabilitat tècnica.
+b) Interoperabilitat organitzativa.
+c) Interoperabilitat semàntica.
+d) Interoperabilitat jurídica.
+
+20. Quina norma fa referència al desenvolupament de les normes tècniques d’interoperabilitat?
+a) El Reial decret 3/2010, de 8 de gener, pel qual es regula l’Esquema Nacional de Seguretat en l’àmbit de l’Administració electrònica.
+b) El Reial decret 4/2010, de 8 de gener, pel qual es regula l’Esquema Nacional d’Interoperabilitat en l’àmbit de l’Administració electrònica.
+c) El Reial decret 203/2021, de 30 de març, pel qual es regula l’Esquema Nacional de Seguretat en l’àmbit de l’Administració electrònica.
+d) El Reial decret 204/2021, de 30 de març, pel qual es regula l’Esquema Nacional d’Interoperabilitat en l’àmbit de l’Administració electrònica.
+
+21. Quina de les opcions següents és una norma tècnica d’interoperabilitat?
+a) Catàleg de formats estàndards.
+b) Política de signatura electrònica i de segells d’òrgans de l’Administració.
+c) Relació de models de dades.
+d) Reutilització de dades obertes.
+
+22. Quin dels conceptes següents està regulat per una norma tècnica d’interoperabilitat?
+a) Document electrònic.
+b) Expedient electrònic.
+c) Les respostes a) i b) són correctes.
+d) Totes les respostes anteriors són incorrectes.
+
+23. Senyalau quina de les opcions no es considera un component d’un document electrònic, d’acord amb la Norma tècnica de document electrònic:
+a) Contingut.
+b) Firma electrònica.
+c) Metadades.
+d) Índex.
+
+24. Senyalau quina de les opcions no es considera un component de l’expedient electrònic, d’acord amb la Norma tècnica d’expedient electrònic:
+a) Descripció dels documents electrònics.
+b) Firma de l’índex electrònic.
+c) Metadades de l’expedient electrònic.
+d) Índex electrònic.
+
+25. Quin nivell de resolució mínim per a imatges electròniques estableix la Norma tècnica de digitalització de documents, en l’àmbit de l’Administració electrònica?
+a) 300 píxels per polzada per a imatges obtingudes en color, i 200 píxels per polzada per imatges en blanc i negre o escala de grisos.
+b) 200 píxels per polzada, tant per a imatges obtingudes en blanc i negre, color o escala de grisos.
+c) 300 píxels per polzada, tant per a imatges obtingudes en blanc i negre, color o escala de grisos.
+d) Totes les respostes anteriors són incorrectes.
+
+26. Senyalau la resposta incorrecta en relació amb la xarxa SARA:
+a) És la xarxa de comunicacions de les administracions públiques espanyoles.
+b) Respon a les sigles «Sistema de Aplicaciones y Redes para las Administraciones».
+c) Està regulada a l’Esquema Nacional de Seguretat.
+d) Facilita l’intercanvi d’informació i serveis entre les xarxes de les diferents administracions públiques espanyoles.
+
+27. D’acord amb el Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, quina és la definició de Sistema d’Interconnexió de Registres?
+a) La infraestructura avançada que permet l’intercanvi d’assentaments electrònics de registre entre les administracions públiques.
+b) La infraestructura bàsica que permet l’intercanvi d’assentaments electrònics de registre entre les administracions públiques.
+c) La infraestructura avançada que permet l’intercanvi d’assentaments en paper entre les administracions públiques.
+d) La infraestructura bàsica que permet l’intercanvi d’assentaments en paper entre les administracions públiques.
+
+28. Quin protocol implementa la Plataforma d’Interoperabilitat de les Illes Balears?
+a) SCSP (substitució de certificats en suport paper).
+b) SICRES (sistema d’informació comuna de registres d’entrada i sortida).
+c) CTT (centre de transferència tecnològica).
+d) SIR (sistema d’interconnexió de registres).
+
+29. Com a agent que participa en els intercanvis intermediats de dades entre administracions públiques, què és un cessionari?
+a) Qualsevol organització que posseeixi dades relatives a la ciutadania que una altra pugui necessitar consultar en l’àmbit de l’exercici de les seves competències.
+b) Des del punt de vista tecnològic, aquell que facilita la cessió de les dades.
+c) Qualsevol organització autoritzada a consultar diverses dades de la ciutadania en poder d’un emissor.
+d) Des del punt de vista tecnològic, aquell que facilita la consulta de dades.
+
+30. Com a agent que participa en els intercanvis intermediats de dades entre administracions públiques, què és un requirent?
+a) Qualsevol organització que posseeixi dades relatives a la ciutadania que una altra pugui necessitar consultar en l’àmbit de l’exercici de les seves competències.
+b) Des del punt de vista tecnològic, aquell que facilita la cessió de les dades.
+c) Qualsevol organització autoritzada a consultar diverses dades de la ciutadania en poder d’un emissor.
+d) Des del punt de vista tecnològic, aquell que facilita la consulta de dades.
+
+31. En matèria dels intercanvis intermediats de dades entre administracions públiques, quin agent mantindrà la traça de totes les peticions que du a terme i les respostes rebudes?
+a) Cedent.
+b) Emissor.
+c) Cessionari.
+d) Requirent.
+
+32. Quin dels conceptes següents no permet gestionar la Plataforma d’Interoperabilitat de les Illes Balears?
+a) Entitats.
+b) Serveis.
+c) Usuaris.
+d) Tràmits.
+
+33. Què són entitats en l’àmbit de la Plataforma d’Interoperabilitat de les Illes Balears?
+a) Són totes aquelles administracions adherides al Conveni d’interoperabilitat.
+b) Són tots aquells òrgans administratius del Govern de les Illes Balears que disposen de procediments amb tramitació telemàtica.
+c) Són totes aquelles unitats de tramitació del Govern de les Illes Balears que cedeixen les seves dades a altres unitats de la mateixa Administració o òrgans dependents.
+d) Són totes aquelles unitats orgàniques amb un codi DIR3 que ofereixen serveis d’intermediació dins la mateixa Administració.
+
+34. Senyalau la resposta correcta:
+a) A la Plataforma d’Interoperabilitat de les Illes Balears, els delegats són els usuaris encarregats de fer les peticions als serveis SCSP (substitució de certificats en suport paper) als quals tenen accés.
+b) A la Plataforma d’Interoperabilitat de les Illes Balears, els delegats no poden imprimir el justificant de la petició en paper.
+c) A la Plataforma d’Interoperabilitat de les Illes Balears, un usuari només pot tenir un rol.
+d) A la Plataforma d’Interoperabilitat de les Illes Balears, un usuari només pot tenir accés a una entitat.
+
+35. Qui ha desenvolupat la Plataforma d’Interoperabilitat de les Illes Balears?
+a) El Govern de les Illes Balears.
+b) L’Administració General de l’Estat.
+c) Totes les administracions que han signat el Conveni de col·laboració en matèria d’interoperabilitat telemàtica entre les administracions públiques de l’àmbit territorial de les Illes Balears, conjuntament i de forma participativa.
+d) És un programari adquirit a un preu de mercat.
+
+36. Quin dels següents grups de característiques corresponen a la Plataforma d’Interoperabilitat de les Illes Balears?
+a) Entorn monoentitat, justificant de consulta, auditories.
+b) Estadístiques, disseny de pantalles, auditories, entorn multientitat.
+c) Integració mitjançant serveis web, entorn multientitat, disseny de formularis i protocol SCSP (substitució de certificats en suport paper).
+d) Protocol SCSP (substitució de certificats en suport paper), integració mitjançant plataformes distribuïdes, justificant de consulta i estadístiques.
+
+37. Quina és l’adreça per accedir a la Plataforma d’Interoperabilitat de les Illes Balears?
+a) https://intranet.caib.es/pinbal
+b) http://intranet.caib.es/pinbalback
+c) https://www.caib.es/pinbalfront
+d) http://www.caib.es/pinbalback
+
+38. Senyalau la resposta incorrecta. Pel que fa al justificant d’una consulta múltiple dins la Plataforma d’Interoperabilitat de les Illes Balears:
+a) Es genera un justificant de cada una de les sol·licituds de la petició múltiple.
+b) Es pot generar un únic justificant que inclou tots els justificants concatenats.
+c) Es pot generar un fitxer comprimit que inclou tots els justificants individuals.
+d) Es genera un justificant de cada una de les sol·licituds de la petició múltiple i, alhora, un únic justificant que inclou tots els justificants concatenats.
+
+39. Segons el conveni de col·laboració en matèria d’interoperabilitat telemàtica entre les administracions públiques de l’àmbit territorial de les Illes Balears, quines actuacions es compromet a dur a terme la Direcció General de Modernització i Administració Digital?
+a) Gestionar la Plataforma d’Interoperabilitat de les Illes Balears (PINBAL).
+b) Establir i fixar els protocols d’actuació i els òrgans adequats per proveir eficientment d’informació les sol·licituds rebudes mitjançant la plataforma.
+c) Allotjar, mantenir i millorar la plataforma d’interoperabilitat de les Illes Balears.
+d) Totes les respostes anteriors són correctes.
+
+40. En matèria dels serveis de la Tresoreria General de la Seguretat Social que s’ofereixen a través de la Plataforma d’Interoperabilitat de les Illes Balears, quina de les consultes següents no es poden obtenir?
+a) Consulta de la vida laboral dels darrers dotze mesos.
+b) Consulta d’un període de vida laboral dels darrers deu anys.
+c) Consulta de la situació laboral en una data concreta.
+d) Consulta dels números d’afiliació a la seguretat social.
+
+41. En matèria dels serveis de trànsit de la Direcció General de Trànsit que s’ofereixen a través de la Plataforma d’Interoperabilitat de les Illes Balears, quina de les dades següents no es pot obtenir d’un conductor?
+a) La seva llista de vehicles.
+b) Les dades del seu permís de conduir.
+c) Les sancions.
+d) L’assegurança dels seus vehicles.
+
+42. El justificant d’una consulta dins la Plataforma d’Interoperabilitat de les Illes Balears:
+a) És un justificant en format .doc o .pdf.
+b) Està signat digitalment.
+c) Inclou tota la informació de la resposta de la petició realitzada, però amb dades emmascarades, per protecció de dades personals.
+d) Si la consulta és múltiple, no es pot obtenir cap justificant de consulta.
+
+43. Segons l’article 28 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, els interessats tenen dret a no aportar documents:
+a) Quan ja estiguin en poder de l’Administració pública actuant.
+b) Quan són documents elaborats per una altra administració.
+c) Les respostes a) i b) són correctes.
+d) Els interessats no tenen aquest dret.
+
+44. En relació amb l’aportació de documents, les administracions públiques no han de requerir:
+a) Documents originals.
+b) El DNI.
+c) Els documents que estiguin en poder d’una altra administració.
+d) Totes les respostes anteriors són correctes.
+
+45. Segons la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, els interessats d’un procediment administratiu tenen dret:
+a) A no presentar documents originals, en qualsevol cas.
+b) A no presentar documents originals, excepte que, de manera excepcional, la normativa reguladora aplicable estableixi el contrari.
+c) A no presentar documents originals, excepte que un empleat públic els exigeixi.
+d) Totes les respostes anteriors són incorrectes.
+
+46. En quins casos excepcionals l’Administració pot requerir el ciutadà perquè exhibeixi un document original?
+a) Quan la còpia del document és de molt mala qualitat i no se’n pot llegir el contingut.
+b) Quan així ho consideri adient l’empleat públic.
+c) Quan es tracta d’un document clau per resoldre el procediment.
+d) Les respostes a) i c) són correctes.
+
+47. Una persona sol·licita una subvenció a un ajuntament en el marc d’una convocatòria i rep un requeriment  d’aquest ajuntament perquè aporti documentació complementària. Està obligada a aportar els documents requerits?
+a) Sí, sempre.
+b) Sí, excepte que es tracti de documents electrònics.
+c) No.
+d) Amb caràcter general, no està obligada a presentar documents que ja estiguin en poder de l’ajuntament o hagin estat elaborats per una altra Administració.
+
+48. Quin d’aquests documents no fa falta aportar en un procediment pel fet que l’Administració de la Comunitat Autònoma de les Illes Balears pot consultar-ne la informació telemàticament?
+a) El document nacional d’identitat.
+b) Un títol universitari.
+c) El certificat de naixement.
+d) Totes les respostes anteriors són correctes.
+
+49. Segons el Decret 6/2013, de 8 de febrer, de mesures de simplificació documental dels procediments administratius, en quins supòsits l’Administració autonòmica no pot exigir a la ciutadania la presentació de documents?
+a) L’Administració sempre pot sol·licitar els documents que consideri pertinents.
+b) Quan el document està incorporat en la carpeta documental ciutadana.
+c) Quan el document consta en el Catàleg de simplificació documental.
+d) Les respostes b) i c) són correctes.
+
+50. Segons el Decret 6/2013, de 8 de febrer, de mesures de simplificació documental dels procediments administratius, què és la carpeta documental ciutadana?
+a) Un arxiu documental interadministratiu, de caràcter electrònic, en què la ciutadania diposita documents a l’efecte d’utilitzar-los en procediments administratius.
+b) Un arxiu documental interadministratiu, en format paper, en què la ciutadania diposita documents a l’efecte d’utilitzar-los en procediments administratius.
+c) La carpeta documental ciutadana no existeix.
+d) Totes les respostes anteriors són incorrectes.
+
+51. Segons l’article 28 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques:
+a) Les administracions públiques poden exigir als interessats la presentació de documentals originals, en qualsevol cas.
+b) Amb caràcter general, les administracions públiques no han d’exigir la presentació de documents originals.
+c) Els interessats tenen dret a no aportar documents que ja tengui l’Administració actuant.
+d) Les respostes b) i c) són correctes.
+
+52. Indicau la resposta incorrecta en relació amb l’aportació de documents a càrrec dels interessats:
+a) Els interessats han d’aportar al procediment administratiu les dades i els documents exigits per les administracions públiques d’acord amb allò que disposa la normativa aplicable.
+b) Els interessats poden aportar al procediment administratiu les dades i els documents que considerin convenient.
+c) Els interessats poden, en qualsevol moment del procediment anterior al tràmit d’audiència, aportar documents.
+d) Els interessats estan obligats a presentar la documentació original en tot procediment.
+
+53. Un ciutadà pot aportar documents no exigits per la normativa que regula el procediment?
+a) Sí, els interessats poden aportar els documents que considerin convenient.
+b) No.
+c) Si els presenta, l’Administració els hi ha de tornar.
+d) Pot presentar-los, però l’empleat públic els arxivarà o els destruirà.
+
+54. Si un ciutadà que ha sol·licitat una subvenció a la Conselleria d’Afers Socials i Esports s’oposa al fet que aquesta consulti telemàticament les seves dades d’identitat (DNI):
+a) Ha d’aportar el DNI.
+b) No s’hi pot oposar.
+c) Pot aportar un certificat d’empadronament com a document substitutiu.
+d) Pot aportar el passaport com a document substitutiu.
+
+55. Qui és responsable de la veracitat dels documents que presenta un interessat en el marc d’un procediment?
+a) L’empleat públic.
+b) L’interessat.
+c) L’emissor del document.
+d) El càrrec polític.
+
+56. L’interessat d’un procediment pot oposar-se al fet que l’Administració consulti les seves dades que estan en poder d’una altra administració?
+a) Amb caràcter general, sí.
+b) No.
+c) Depèn de l’empleat públic.
+d) Totes les respostes anteriors són incorrectes.
+
