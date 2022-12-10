@@ -1,0 +1,402 @@
+﻿1. Quines són, segons la doctrina clàssica, les formes d’acció administrativa?
+a) L’activitat de foment, la de policia, la de contractació i la de servei públic.
+b) L’activitat de foment i la de servei públic.
+c) L’activitat de foment, la de policia i la de servei públic.
+d) L’activitat contractual, la de policia i la de servei públic.
+
+2. Indicau quines de les següents són característiques dels serveis públics:
+a) Tenen per objecte la satisfacció d’un interès general i una necessitat de la col·lectivitat.
+b) El seu règim jurídic és de dret privat.
+c) Es regeixen, entre d’altres, pels principis de continuïtat, igualtat, neutralitat, variabilitat i generalitat.
+d) Les respostes anteriors a) i c) són correctes.
+
+3. Senyalau la resposta incorrecta. Perquè una activitat es consideri de servei públic, és necessari:
+a) Que la presti directament l’Administració.
+b) Que es tracti d’una activitat empresarial.
+c) Que contengui una prestació positiva en benefici dels particulars.
+d) Totes les respostes anteriors són incorrectes.
+
+4. En l’ordenament jurídic espanyol, el servei públic s’ha definit en funció:
+a) De la persona jurídica que presta el servei: els serveis públics són gestionats directament per l’Administració.
+b) De la titularitat del servei: la titularitat del servei públic correspon a l’Administració.
+c) De la seva inserció en el mercat: l’activitat de servei públic s’exerceix en règim de lliure competència.
+d) Les respostes a) i b) són correctes.
+
+5. Indicau la resposta correcta quant als serveis públics i la Constitució espanyola:
+a) La Constitució defineix els serveis públics com els serveis que presta l’Administració i que responen a l’interès general dels ciutadans.
+b) La Constitució preveu la possibilitat de reservar mitjançant una llei serveis essencials, especialment en cas de monopoli.
+c) La Constitució preveu la possibilitat d’establir una assignació a les comunitats autònomes per garantir un nivell mínim en la prestació dels serveis públics fonamentals en tot el territori espanyol.
+d) Les respostes anteriors b) i c) són correctes.
+
+6. En l’àmbit de la Unió Europea, el concepte de servei públic s’utilitza sovint de manera ambigua; per això, en general no s’utilitza aquest terme sinó que es fa servir una terminologia distinta. Quina és aquesta terminologia?
+a) Serveis d’interès públic.
+b) Serveis d’interès general.
+c) Serveis d’interès general comunitari.
+d) Serveis públics europeus.
+
+7. D’acord amb la Comunicació de la Comissió al Parlament europeu, al Consell, al Comitè Econòmic i Social Europeu i al Comitè de les Regions de 2011 anomenada Un marc de qualitat per als serveis d’interès general a Europa, quines són les categories de serveis d’interès general:
+a) Serveis d’interès econòmic general, serveis no econòmics i serveis socials d’interès general.
+b) Serveis d’interès econòmic general i serveis socials d’interès general.
+c) El concepte de servei d’interès general és únic.
+d) Serveis d’interès econòmic general i serveis no econòmics.
+
+8. Els serveis d’interès econòmic general:
+a) Són serveis bàsics que es presten a canvi d’una remuneració.
+b) Poden ser prestats per empresaris.
+c) Estan subjectes a les normes europees de competència i mercat interior.
+d) Totes les respostes anteriors són correctes.
+
+9. D’acord amb la classificació dels serveis d’interès general efectuada per la Unió Europea, l’educació i el sistema nacional de salut:
+a) Són serveis socials d’interès general.
+b) Són serveis d’interès general no econòmics.
+c) No són serveis d’interès general.
+d) Poden ser prestats per l’Administració.
+
+10. Els serveis que atenen les necessitats dels ciutadans més vulnerables i que es basen en els principis de solidaritat i igualtat d’accés:
+a) Són serveis socials d’interès general.
+b) Són serveis d’interès general no econòmics.
+c) No són serveis d’interès general.
+d) Es gestionen directament pels poders públics.
+
+11. Indicau la resposta incorrecta en relació amb els serveis als quals s’imposen obligacions de servei universal:
+a) El servei de telecomunicacions té obligacions de servei universal.
+b) El servei universal es presta en condicions de neutralitat tecnològica, amb una qualitat determinada i a un preu raonable.
+c) Els serveis que tenen obligacions de servei universal són serveis la prestació dels quals es garanteix per a tots els consumidors amb independència condicionada a la seva localització geogràfica.
+d) El servei universal es presta en condicions de neutralitat tecnològica, amb una qualitat determinada i a un preu assequible.
+
+12. La Llei 11/2022, de 28 de juny, general de telecomunicacions, disposa:
+a) Que les telecomunicacions són serveis d’interès general que es presten en règim de lliure competència.
+b) Que el secret de les comunicacions és una obligació de servei públic.
+c) Que les telecomunicacions són serveis d’interès general que es presten en règim de monopoli.
+d) Les respostes a) i b) són correctes.
+
+13. La neteja viària i el clavegueram són serveis públics:
+a) Competència dels ajuntaments, que s’han de prestar mitjançant gestió directa.
+b) Que els ajuntaments poden prestar mitjançant un contracte de concessió de serveis.
+c) Que s’han de prestar en règim de monopoli.
+d) Que els ajuntaments poden gestionar de forma directa o de forma indirecta.
+
+14. Senyalau quins dels serveis següents són serveis públics que han de prestar els municipis amb població superior a 5.000 habitants, d’acord amb la Llei 7/1985, de 2 d’abril, reguladora de les bases del règim local:
+a) Cementiri, protecció civil i extinció d’incendis.
+b) Cementiri i transport col·lectiu urbà de viatgers.
+c) Cementiri i atenció a persones en situació o risc d’exclusió social.
+d) Cementiri, abastiment domiciliari d’aigua potable, pavimentació de les vies públiques.
+
+15. És possible que una comunitat autònoma delegui en un municipi serveis públics de la seva competència?
+a) No, la competència quant als serveis públics és indelegable.
+b) Només es poden delegar serveis públics en casos d’urgent necessitat i per evitar duplicitats administratives.
+c) Sí, a l’objecte d’evitar duplicitats administratives, millorar la transparència dels serveis públics i el servei a la ciutadania i, en general, contribuir als processos de racionalització administrativa, generant un estalvi net de recursos.
+d) Sí, a l’objecte d’evitar duplicitats administratives, millorar la transparència dels serveis públics i el servei a la ciutadania i, en general, contribuir als processos de racionalització administrativa malgrat no generi un estalvi net de recursos.
+
+16. Els serveis públics de gestió pública són:
+a) Els que no poden ser objecte de prestació per particulars perquè responen a la noció de funció pública que exerceix l’Administració pública institucional.
+b) Els que poden ser objecte de prestació per particulars mitjançant alguna de les fórmules previstes legalment en matèria de contractació.
+c) Els que poden ser prestats al públic en general a través del sector privat, però la prestació està sotmesa a una estricta reglamentació per part de l’Administració.
+d) Cap de les respostes anteriors és correcta.
+
+17. És possible que l’Administració de l’Estat delegui en un municipi serveis públics de la seva competència?
+a) Sí, a l’objecte d’evitar duplicitats administratives, millorar la transparència dels serveis públics i el servei a la ciutadania i, en general, contribuir als processos de racionalització administrativa, generant un estalvi net de recursos.
+b) No, la competència quant als serveis públics és indelegable.
+c) Sí, a l’objecte d’evitar duplicitats administratives, millorar la transparència dels serveis públics i el servei a la ciutadania i, en general, contribuir als processos de racionalització administrativa malgrat que no generi un estalvi net de recursos.
+d) Només es poden delegar serveis públics en casos d’urgent necessitat i per evitar duplicitats administratives.
+
+18. Senyalau el servei públic que no pot ser delegat per l’Administració de l’Estat en els municipis:
+a) Prestació dels serveis socials.
+b) Serveis postals.
+c) Creació, manteniment i gestió d’escoles infantils.
+d) Cap de les respostes anteriors és correcta.
+
+19. Per crear serveis públics, les entitats locals de les Illes Balears:
+a) Han d’acordar de manera expressa la creació del servei públic local.
+b) S’ha d’aprovar un reglament pel qual es reguli el servei, si bé es pot aprovar amb posterioritat a l’inici de la prestació.
+c) No és necessari que s’acordi expressament la seva creació.
+d) L’aprovació d’un reglament que reguli el servei públic només és exigible als municipis de més de 50.000 habitants.
+
+20. D’acord amb el Reial decret legislatiu 781/1986, de 18 d’abril, pel qual s’aprova el text refós de les disposicions legals vigents en matèria de règim local, els serveis públics locals s’han de gestionar:
+a) Directament.
+b) Indirectament.
+c) Indirectament, amb l’excepció dels serveis que impliquin exercici d’autoritat.
+d) Cap de les respostes anteriors és correcta.
+
+21. D’acord amb la Llei 20/2006, de 15 de desembre, municipal i de règim local de les Illes Balears, les formes de gestió dels serveis públics locals són:
+a) Gestió indirecta i gestió mixta.
+b) Gestió directa i gestió mixta.
+c) Gestió directa i gestió concertada.
+d) Gestió directa i gestió indirecta.
+
+22. La Llei 20/2006, de 15 de desembre, municipal i de règim local de les Illes Balears, disposa que els serveis públics que impliquin exercici d’autoritat:
+a) No poden prestar-se per gestió indirecta, amb l’excepció que es presti mitjançant societat mercantil de capital mixt.
+b) No poden prestar-se per gestió indirecta ni mitjançant societat mercantil de capital social exclusivament local.
+c) Es poden prestar indirectament mitjançant societat mercantil de capital social exclusivament local.
+d) Cap de les respostes anteriors és correcta.
+
+23. L’Ajuntament de Palma pot establir avantatges econòmics en benefici dels grups socials de menor capacitat econòmica, quant a la utilització de serveis públics?
+a) No és possible, perquè resulta contrari al principi constitucional d’igualtat.
+b) Sí, així ho preveu l’article 21 de l’Estatut d’autonomia de les Illes Balears.
+c) Sí, perquè ho permet la Llei 20/2006, de 15 de desembre, municipal i de règim local de les Illes Balears.
+d) No, està prohibit expressament per la normativa comunitària.
+
+24. Indicau quina de les següents no és una forma de gestió directa dels serveis públics:
+a) Gestió per la pròpia Administració pública.
+b) Gestió a través d’un organisme autònom.
+c) Gestió mitjançant una entitat pública empresarial.
+d) Gestió mitjançant una societat mercantil de titularitat privada.
+
+25. D’acord amb la Llei 20/2006, de 15 de desembre, municipal i de règim local de les Illes Balears, si un servei públic local es presta en règim de monopoli, significa:
+a) Que es tracta d’un servei públic essencial reservat mitjançant una llei als ens locals.
+b) Que un servei públic el presta un únic empresari.
+c) Que es tracta d’un servei públic en què no és possible la lliure concurrència.
+d) Cap de les respostes anteriors és correcta.
+
+26. D’acord amb la Llei 20/2006, de 15 de desembre, municipal i de règim local de les Illes Balears, perquè un servei públic es presti en règim de monopoli, es requereix:
+a) L’acord del ple per majoria absoluta del nombre de membres de la corporació presents a la sessió, i l’aprovació del consell, que s’ha d’atorgar si hi concorren les circumstàncies d’interès públic legitimadores de l’exclusió de la iniciativa privada o ho aconsellen raons de seguretat, salubritat o ordre públic.
+b) L’acord del ple per majoria absoluta del nombre legal de membres de la corporació i l’aprovació del consell, que s’ha d’atorgar si hi concorren les circumstàncies d’interès públic legitimadores de l’exclusió de la iniciativa privada o ho aconsellen raons de seguretat, salubritat o ordre públic.
+c) L’acord del ple per majoria absoluta del nombre legal de membres de la corporació i l’aprovació del consell, que s’ha d’atorgar només si hi concorren les circumstàncies d’interès públic legitimadores de l’exclusió de la iniciativa privada.
+d) L’acord del ple per majoria absoluta del nombre legal de membres de la corporació i l’aprovació del consell, que s’ha d’atorgar només si ho aconsellen raons de seguretat, salubritat o ordre públic.
+
+27. La gestió directa d’un servei públic per part de l’Administració es pot dur a terme:
+a) Mitjançant mitjans propis no personificats.
+b) Mitjançant un organisme autònom o una entitat pública empresarial.
+c) Mitjançant mitjans propis personificats.
+d) Totes les respostes anteriors són correctes.
+
+28. En el cas de gestió directa d’un servei públic amb mitjans propis no personificats, l’Administració pot comptar amb mitjans privats?
+a) Sí, sempre que l’Administració executi la part essencial del servei i l’empresari allò complementari.
+b) Sí, en tot cas; l’article 30 de la Llei de contractes del sector públic reconeix l’execució directa de prestacions per part de l’Administració pública amb la col·laboració d’empresaris particulars.
+c) No, si la col·laboració és per atendre els usuaris de forma directa.
+d) Les respostes a) i c) són correctes.
+
+29. Indicau la resposta incorrecta. Són formes de gestió directa de l’Administració:
+a) L’encàrrec a mitjans propis personificats.
+b) L’execució per una entitat pública empresarial.
+c) L’execució per un organisme autònom dependent.
+d) La concessió d’autorització o llicència a una entitat sense ànim de lucre.
+
+30. Perquè un organisme autònom executi un servei públic, es requereix:
+a) Que la llei de creació així ho disposi.
+b) Que subscrigui un contracte amb l’Administració de la qual depèn.
+c) Que se li atorgui autorització o llicència per executar-lo.
+d) Els organismes autònoms no poden gestionar serveis públics.
+
+31. Els serveis públics que impliquen exercici d’autoritat s’han d’exercir:
+a) En règim de lliure concurrència.
+b) En règim de monopoli.
+c) En règim de gestió directa.
+d) Totes les respostes anteriors són correctes.
+
+32. Indicau quina o quines de les següents no és un forma de gestionar indirectament un servei públic:
+a) El contracte de serveis a les persones.
+b) La concessió.
+c) El contracte de gestió de serveis públics.
+d) El concert.
+
+33. La gestió indirecta de serveis públics es pot dur a terme:
+a) Mitjançant un contracte de concessió de serveis.
+b) Mitjançant un contracte de serveis que comporti prestacions directes a la ciutadania.
+c) Mitjançant concert, gestió delegada o altres modalitats regulades a la legislació autonòmica.
+d) Totes les respostes anteriors són correctes.
+
+34. Indicau quina és la resposta incorrecta. L’article 86 de la Llei 7/1985, de 2 d’abril, reguladora de les bases de règim local, declara la reserva a favor de les entitats locals d’algunes activitats o serveis essencials:
+a) Recollida, tractament i aprofitament de residus.
+b) Transport públic de viatgers.
+c) Enllumenat públic.
+d) Proveïment i depuració d’aigües.
+
+35. La prestació per entitats privades de serveis públics destinats a satisfer necessitats de caràcter social, està sotmesa a la normativa de contractació?
+a) Sí; es tracta d’una relació contractual entre l’Administració i un empresari, per la qual cosa està subjecta a la Directiva 24/2004/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, sobre contractació pública, i a la Llei 9/2017, de 30 de novembre, de contractes del sector públic.
+b) No, la Directiva 2014/24 reconeix als poders públics la llibertat per prestar per si mateixos els serveis a les persones, i per organitzar-los de manera que no sigui necessari subscriure contractes públics.
+c) No, aquests serveis queden exclosos de la Llei de contractes del sector públic d’acord amb l’article 11 i la disposició addicional quadragèsima novena d’aquesta Llei.
+d) La satisfacció de necessitats de caràcter social pot prestar-se mitjançant un contracte de concessió de serveis o de serveis, o bé mitjançant altres fórmules no contractuals, com el concert.
+
+36. La prestació de serveis socials per entitats privades està exclosa de la Llei de contractes del sector públic?
+a) Sí, sempre que es dugui a terme sense necessitat de subscriure contractes públics, a través del simple finançament d’aquests serveis a totes les entitats que compleixin les condicions prèviament fixades pel poder adjudicador, sense límits ni quotes, i que el sistema esmentat s’ajusti als principis de transparència i no discriminació.
+b) No, la Llei de contractes del sector públic regula dos tipus de contractes mitjançant els quals es presten serveis socials o a les persones: el contracte de serveis i el de concessió de serveis.
+c) Sí, sempre que es dugui a terme a través de concessió de llicències o autoritzacions a totes les entitats que compleixin les condicions prèviament fixades per la Llei sense límits ni quanties.
+d) Sí, sempre que es dugui a terme sense necessitat de subscriure contractes públics, a través, entre altres mitjans, del simple finançament d’aquests serveis o la concessió de llicències o autoritzacions a totes les entitats que compleixin les condicions que el poder adjudicador hagi fixat prèviament, sense límits ni quotes, i que el sistema esmentat garanteixi una publicitat suficient i s’ajusti als principis de transparència i no-discriminació.
+
+37. En l’àmbit de la comunitat autònoma de les Illes Balears, quina llei regula l’acció concertada de serveis socials a les persones?
+a) La Llei 3/2018, de 29 de maig, del tercer sector d’acció social.
+b) La Llei 12/2018, de 15 de novembre, de serveis socials a la comunitat autònoma de les Illes Balears.
+c) La Llei 3/2018, de 29 de maig, del tercer sector d’acció social de les Illes Balears.
+d) La Llei 12/2018, de 15 de novembre, de serveis a les persones en l’àmbit social a la comunitat autònoma de les Illes Balears.
+
+38. El règim d’acció concertada es defineix, a la Llei 12/2018, de 15 de novembre, de serveis a les persones en l’àmbit social a la comunitat autònoma de les Illes Balears, com:
+a) La prestació per tercers de serveis socials inclosos en la cartera de serveis socials recollits en la cartera comuna del Sistema Nacional d’Ocupació, en els quals el finançament, l’accés i el control administratiu són públics.
+b) La prestació per tercers de serveis socials inclosos en la cartera de serveis socials i el servei d’orientació professional recollit en la cartera comuna del Sistema Nacional d’Ocupació, en els quals el finançament i el control administratiu són públics.
+c) La prestació per tercers de serveis socials inclosos en la cartera de serveis socials i del servei d’orientació professional recollit en la cartera comuna del Sistema Nacional d’Ocupació, el finançament, l’accés i el control administratiu dels quals són públics.
+d) La prestació per tercers de serveis socials inclosos en la cartera de serveis socials i el servei d’orientació professional recollit en la cartera comuna del Sistema Nacional d’Ocupació, i en els quals l’accés i el control administratiu són públics.
+
+39. L’acció concertada amb tercers per a la prestació a les persones de serveis socials s’ha d’ajustar als principis següents:
+a) Solidaritat, transparència, eficiència pressupostària, subsidiarietat, participació, publicitat, qualitat assistencial i no discriminació.
+b) Subsidiarietat, igualtat, eficiència pressupostària, transparència, intencionalitat social i ambiental, qualitat assistencial i lliure elecció de les persones usuàries.
+c) Subsidiarietat, solidaritat, eficiència pressupostària, transparència, intencionalitat social i ambiental, qualitat assistencial i lliure elecció de les persones usuàries.
+d) Subsidiarietat, igualtat, eficiència pressupostària, solidaritat, no discriminació, transparència, publicitat, intencionalitat social i ambiental, participació, qualitat assistencial i lliure elecció i arrelament de les persones usuàries.
+
+40. Quin o quins dels serveis següents poden ser objecte de concert, d’acord amb la Llei 12/2018, de 15 de novembre, de serveis a les persones en l’àmbit social a la comunitat autònoma de les Illes Balears?
+a) Els serveis administratius d’administració general.
+b) Els serveis d’inserció laboral.
+c) Els serveis d’ajuda a domicili per a persones en situació de dependència.
+d) Les respostes b) i c) són correctes.
+
+41. Qui pot subscriure acords d’acció concertada de serveis a les persones en l’àmbit social a les Illes Balears?
+a) Les persones físiques o jurídiques de caràcter privat, amb o sense ànim de lucre, sigui quina sigui la forma jurídica que adoptin, que restin els serveis objecte del concert i ho sol·licitin expressament en els terminis i la forma que es determini.
+b) Totes les entitats del tercer sector d’acció social que prestin els serveis objecte del concert.
+c) Les persones físiques o jurídiques a les quals fa referència l’opció a), només en els serveis declarats d’interès econòmic general.
+d) Les respostes b) i c) són correctes.
+
+42. Indicau quin o quins dels serveis següents pot ser objecte d’acció concertada d’acord amb la Llei 12/2018, de 15 de novembre, de serveis a les persones en l’àmbit social en la comunitat autònoma de les Illes Balears:
+a) Servei d’acompanyament per a persones amb discapacitat.
+b) Serveis de tutela per a persones amb discapacitat.
+c) Servei de recerca de treball per a persones amb discapacitat.
+d) Tots els serveis anteriors poden ser objecte d’acció concertada.
+
+43. Quina durada màxima poden tenir els acords d’acció concertada en l’àmbit social a les Illes Balears?
+a) Cinc anys.
+b) Deu anys.
+c) Tres anys.
+d) Dotze anys.
+
+44. Es pot gestionar un servei públic mitjançant un contracte de serveis dels que regula la Llei de contractes del sector públic?
+a) En cap cas.
+b) Només es pot gestionar un servei públic mitjançant un contracte de concessió de serveis.
+c) Sí, mitjançant un contracte de serveis que comportin prestacions directes a favor de la ciutadania.
+d) No, els contractes de serveis són aquells que es presten directament a l’Administració contractant.
+
+45. D’acord amb la Llei de contractes del sector públic, la durada d’un contracte de serveis a les persones pot ser:
+a) En tot cas, de cinc anys com a màxim.
+b) Més de cinc anys quan sigui necessari per a la continuïtat d’aquells tractaments als usuaris en què el canvi del prestador pugui repercutir negativament.
+c) Més de tres anys quan sigui necessari per a la continuïtat d’aquells tractaments als usuaris en què el canvi del prestador pugui repercutir negativament.
+d) Deu anys, com a màxim.
+
+46. En els contractes de serveis socials adreçats a les persones que es duguin a terme a la comunitat autònoma de les Illes Balears, la Llei 12/2018, de 15 de novembre, de serveis a les persones en l’àmbit social a la comunitat autònoma de les Illes Balears, estableix una solvència econòmica i financera referida al volum de negocis en l’àmbit de les activitats corresponents a l’objecte del contracte en relació, com a màxim, amb els tres darrers exercicis disponibles, que mai ha de ser inferior:
+a) Al 50 % del pressupost base de licitació.
+b) Al 50 % del valor estimat del contracte.
+c) Al 75 % del pressupost base de licitació.
+d) Al 75 % del valor estimat del contracte.
+
+47. El termini màxim de durada dels contractes de serveis socials a persones a la comunitat autònoma de les Illes Balears que estableix la Llei 12/2018, de 15 de novembre, de serveis a les persones en l’àmbit social a la comunitat autònoma de les Illes Balears, és:
+a) De cinc anys.
+b) De deu anys.
+c) De sis anys, llevat que sigui necessari un termini major per circumstàncies degudament justificades.
+d) De tres anys.
+
+48. D’acord amb la Llei de contractes del sector públic, quines prescripcions s’han de complir per contractar un servei que comporti prestacions directes a favor de la ciutadania?
+a) Se n’ha d’haver establert el règim jurídic, que determini l’abast de les prestacions en favor dels administrats i reguli els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei.
+b) Se n’ha d’haver establert el règim jurídic, que declari expressament que l’activitat de què es tracta queda assumida per l’Administració com a pròpia, i reguli els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei.
+c) Se n’ha d’haver establert el règim jurídic, que declari expressament que l’activitat de què es tracta queda assumida per l’Administració respectiva com a pròpia d’aquella, que determini l’abast de les prestacions a favor dels administrats i que reguli els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei.
+d) Se n’ha d’haver establert el règim jurídic, que declari expressament que l’activitat de què es tracta queda assumida per l’Administració respectiva com a pròpia d’aquella, determini l’abast de les prestacions en favor dels administrats i reguli els aspectes de caràcter jurídic i econòmic relatius a la prestació del servei.
+
+49. En quins casos l’Administració pot acordar el segrest o la intervenció del servei públic gestionat per un contractista d’un servei de prestacions directes a favor de la ciutadania?
+a) Quan per causes alienes al contractista es derivi una pertorbació greu i no reparable per altres mitjans en el servei.
+b) Quan per causa de l’incompliment per part del contractista es derivi una pertorbació greu i no reparable per altres mitjans en el servei i l’Administració no decideix resoldre el contracte.
+c) Quan per causes alienes al concessionari es derivi una pertorbació molt greu i no reparable per altres mitjans en el servei i l’Administració no decideix resoldre el contracte.
+d) El segrest és aplicable a les concessions, no al contracte de serveis que comportin prestacions directes a favor de la ciutadania.
+
+50. És possible que una administració que ha de licitar un contracte per a la prestació de determinats serveis socials reservi la participació en la licitació a certes organitzacions?
+a) No, això suposaria una vulneració del principi de lliure concurrència que estableixen la Llei de contractes del sector públic i les directives comunitàries sobre contractació.
+b) Sí, la Llei de contractes del sector públic ho permet.
+c) No, perquè ho prohibeix la Directiva 2014/23/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, relativa a l’adjudicació de contractes de concessió.
+d) No, perquè ho prohibeix la Directiva 2014/24/UE del Parlament Europeu i del Consell, de 26 de febrer de 2014, sobre contractació pública.
+
+51. La Llei de contractes del sector públic permet que els òrgans de contractació dels poders adjudicadors puguin reservar a determinades organitzacions el dret a participar en els procediments de licitació de certs contractes de caràcter social. Indicau quins dels següents són requisits que han de concórrer en aquestes organitzacions per poder participar en les licitacions:
+a) Que l’objectiu de l’organització sigui la realització d’una missió de servei públic vinculada a la prestació dels serveis que s’han de contractar.
+b) Que les estructures de direcció o propietat de l’organització que executi el contracte es basin en la propietat dels empleats o en principis de participació, o exigeixin la participació activa dels empleats, els usuaris o les parts interessades.
+c) Que les estructures de direcció o propietat de l’organització que executi el contracte es basin en la propietat dels empleats o dels accionistes o en principis de participació, o exigeixin la participació activa dels usuaris o les parts interessades.
+d) Les respostes a) i b) són correctes.
+
+52. D’acord amb la Llei de contractes del sector públic, quina és la durada màxima d’un contracte per a la prestació de serveis socials que s’hagi reservat a determinades organitzacions?
+a) Cinc anys.
+b) Deu anys.
+c) Tres anys.
+d) Dos anys, prorrogables per dos anys més.
+
+53. D’acord amb l’article 284 de la Llei 9/2017, de 8 de novembre, de contractes del sector públic:
+a) L’Administració pot gestionar directament, mitjançant contracte de concessió de serveis, els serveis de la seva titularitat o competència sempre que siguin susceptibles d’explotació econòmica per particulars.
+b) L’Administració pot gestionar indirectament, mitjançant contracte de concessió de serveis, els serveis de la seva titularitat o competència tot i que no siguin susceptibles d’explotació econòmica per particulars.
+c) L’Administració pot gestionar directament, mitjançant contracte de concessió de serveis, els serveis de la seva titularitat o competència tot i que no siguin susceptibles d’explotació econòmica per particulars.
+d) L’Administració pot gestionar indirectament, mitjançant contracte de concessió de serveis, els serveis de la seva titularitat o competència sempre que siguin susceptibles d’explotació econòmica per particulars.
+
+54. Senyalau la resposta correcta quant a la possibilitat de gestionar un servei públic mitjançant un contracte de concessió de serveis:
+a) La Llei de contractes del sector públic permet la gestió indirecta d’un servei públic mitjançant un contracte de concessió de serveis fins i tot si el servei implica exercici de l’autoritat inherent als poders públics.
+b) Els serveis públics no poden ser objecte de concessió.
+c) Es pot gestionar un servei públic mitjançant concessió sempre que el servei sigui susceptible d’explotació econòmica per part de particulars.
+d) Es pot gestionar el servei públic mitjançant concessió, sempre que no impliqui la construcció d’una obra, cas en què s’ha de qualificar de concessió d’obra.
+
+55. En quin cas es pot adjudicar directament un contracte de concessió d’un servei públic:
+a) La Llei de contractes del sector públic no permet l’adjudicació directa d’un contracte de concessió.
+b) En el cas que l’adjudicatari sigui una societat d’economia mixta en la qual concorri capital públic majoritàriament amb capital privat.
+c) La Llei de contractes del sector públic permet l’adjudicació directa d’un contracte de concessió a una societat d’economia mixta, sempre que no es tracti de la concessió d’un servei públic.
+d) Cap de les respostes anteriors és correcta.
+
+56. D’acord amb la Llei 9/2017, de 8 de novembre, de contractes del sector públic, quins són els requisits que s’han de complir prèviament a la contractació de la concessió d’un servei públic?
+a) Se n’ha d’establir el règim jurídic, determinar l’abast de les prestacions en favor dels administrats i regular els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei.
+b) Se n’ha d’establir el règim jurídic, declarar expressament que l’activitat de què es tracta queda assumida per l’Administració com a pròpia, i regular els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei.
+c) Se n’ha d’establir el règim jurídic, declarar expressament que l’activitat de què es tracta queda assumida per l’Administració com a pròpia, determinar l’abast de les prestacions en favor dels administrats i regular els aspectes de caràcter jurídic, econòmic i administratiu relatius a la prestació del servei.
+d) S’ha d’establir el règim jurídic, declarar expressament que l’activitat de què es tracta queda assumida per l’Administració com a pròpia, determinar l’abast de les prestacions en favor dels administrats i regular els aspectes de caràcter jurídic, i econòmic relatius a la prestació del servei.
+
+57. L’assumpció del risc operacional com a element distintiu del contracte de concessió de serveis, suposa:
+a) Que no està garantit que, en condicions normals de funcionament, el contractista recuperi les inversions realitzades.
+b) Que no està garantit que, en condicions anormals de funcionament, el contractista recuperi les inversions realitzades.
+c) Que no està garantit que, en condicions normals de funcionament, el contractista cobreixi els costs en què hagi incorregut com a conseqüència de l’explotació del servei que sigui objecte de concessió, tot i que té dret a ser indemnitzat per l’Administració en el cas de pèrdues.
+d) Les respostes a) i c) són correctes.
+
+58. El contracte de concessió de serveis:
+a) Suposa la gestió directa d’un servei públic per part de l’Administració mitjançant un empresari intermediari.
+b) Pot suposar la gestió indirecta d’un servei públic.
+c) Suposa sempre la gestió indirecta d’un servei públic.
+d) No pot gestionar en cap cas un servei que impliqui exercici de l’autoritat inherent als poders públics, tret que ho autoritzi una llei.
+
+59. Quina pot ser la durada màxima d’un contracte de concessió de serveis quan l’objecte és la gestió d’un servei públic?
+a) Quaranta anys, si comprèn l’execució d’obres i l’explotació de servei.
+b) Vint-i-cinc anys, en el cas que comprengui l’explotació d’un servei no relacionat amb la prestació de serveis sanitaris.
+c) Deu anys, si comprèn l’explotació d’un servei l’objecte del qual consisteixi en la prestació de serveis sanitaris sempre que no inclogui l’execució d’obres.
+d) Totes les respostes anteriors són correctes.
+
+60. Quan el contracte de concessió de serveis recau sobre un servei públic:
+a) L’Administració conserva els poders de policia necessaris per assegurar la bona marxa dels serveis de què es tracti.
+b) El concessionari té la facultat d’oposar-se a les instruccions de l’Administració, atès que assumeix el risc operacional.
+c) Les instal·lacions fixes necessàries per a la prestació del servei no poden ser objecte d’hipoteca.
+d) El contracte no es pot modificar.
+
+61. Quina és la diferència més significativa entre un contracte de concessió de serveis i un contracte de serveis que comporti prestacions directes a favor de la ciutadania, quan es gestiona en ambdós casos un servei públic?
+a) No hi ha cap diferència entre un i altre contracte.
+b) La diferència més significativa és la duració del contracte.
+c) La diferència més significativa és la translació del risc operacional al concessionari en el contracte de concessió.
+d) La diferència més significativa rau en l’objecte del contracte,
+
+62. Indicau quina de les següents opcions no és una obligació del concessionari de serveis:
+a) Indemnitzar els danys que es causin a tercers com a conseqüència de les operacions que requereixi el desenvolupament del servei, fins i tot quan el dany es produeixi per causes imputables a l’Administració.
+b) Prestar el servei amb la continuïtat convinguda i garantir als particulars el dret a utilitzar-lo en les condicions que s’hagin establert.
+c) Continuar amb la prestació del servei a la finalització del contracte fins que se’n formalitzi un de nou.
+d) Cuidar del bon ordre del servei, per a la qual cosa podrà dictar les instruccions oportunes.
+
+63. Quina de les següents són causes de resolució d’una concessió de serveis?
+a) La intervenció de la concessió per un termini superior a dos anys sense que el concessionari hagi garantit l’assumpció completa de les seves obligacions.
+b) El rescat.
+c) La demora superior a tres mesos per part de l’Administració en el lliurament al concessionari dels mitjans auxiliars a què es va obligar segons el contracte.
+d) La demora en el compliment dels terminis per part del contractista.
+
+64. Què significa la reversió en el contracte de concessió d’un servei públic?
+a) Que els béns afectes a la concessió que hagin de revertir a l’Administració poden ser objecte d’embargament.
+b) Que el servei passa a mans de l’Administració una vegada finalitzat el termini de la concessió.
+c) La resolució del contracte.
+d) Cap de les respostes anteriors és correcta.
+
+65. Quin dels següents contractes es pot considerar una concessió de servei públic:
+a) El contracte de concessió del servei de transport regular de viatgers per carretera.
+b) El contracte de concessió del servei de bar d’un poliesportiu municipal.
+c) El contracte de concessió del servei de gandules a una platja.
+d) Cap de les respostes anteriors es refereix a un servei públic.
+
+66. En quins casos l’Administració pot acordar el segrest o la intervenció del servei públic gestionat per un concessionari?
+a) Quan per causes alienes al concessionari es derivi una pertorbació greu i no reparable per altres mitjans en el servei.
+b) Quan per causa de l’incompliment per part del concessionari es derivi una pertorbació greu i no reparable per altres mitjans en el servei.
+c) Quan per causes alienes al concessionari es derivi una pertorbació molt greu i no reparable per altres mitjans en el servei.
+d) Les respostes a) i b) són correctes.
+
+67. En els expedients dels contractes de concessió de serveis, quin és el document que fixa les tarifes que, si és el cas, han d’abonar els usuaris d’un servei públic?
+a) El plec de prescripcions tècniques particulars.
+b) En les concessions de servei públic els usuaris no abonen tarifes.
+c) L’estudi de viabilitat.
+d) El plec de clàusules administratives particulars.
+

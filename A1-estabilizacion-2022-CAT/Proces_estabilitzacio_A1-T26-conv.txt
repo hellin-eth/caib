@@ -1,0 +1,402 @@
+﻿1. Senyalau la resposta incorrecta. En matèria d’actuació i funcionament del sector públic per mitjans electrònics, en relació amb el registre electrònic:
+a) Les administracions públiques han de disposar de registres electrònics per rebre i trametre sol·licituds, escrits i comunicacions, que han de ser plenament interoperables de manera que se’n garanteixi la compatibilitat informàtica i la interconnexió en els termes que preveuen l’article 16 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i l’article 60 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el reglament d’actuació i funcionament del sector públic per mitjans electrònics.
+b) Cada Administració ha de disposar d’un registre electrònic general en el qual ha de fer l’assentament de qualsevol document que es presenti o es rebi en qualsevol òrgan administratiu, organisme públic o entitat de dret públic vinculat o dependent.
+c) Els organismes públics i les entitats de dret públic vinculats o dependents de cada Administració poden disposar del seu propi registre electrònic plenament interoperable i interconnectat amb el registre electrònic general de l’Administració a la qual estiguin vinculats o de la qual depenguin.
+d) Els registres electrònics admetran documents electrònics normalitzats corresponents als serveis, els procediments i els tràmits que s’especifiquin de conformitat amb el que disposi la norma de creació del registre, emplenats d’acord amb qualsevol format.
+
+2. En matèria d’actuació i funcionament del sector públic per mitjans electrònics, els organismes públics i les entitats de dret públic vinculats o dependents de cada Administració pública:
+a) Poden disposar del seu propi registre electrònic plenament interoperable i interconnectat amb el Registre Electrònic General de l’Administració General de l’Estat.
+b) Han de disposar del seu propi registre electrònic plenament interoperable i interconnectat amb el Registre Electrònic General de l’Administració a la qual estiguin vinculats o de la qual depenguin.
+c) Poden disposar del seu propi registre electrònic plenament interoperable i interconnectat amb el Registre Electrònic General de l’Administració a la qual estiguin vinculats o de la qual depenguin.
+d) Han de disposar del seu propi registre electrònic plenament interoperable i interconnectat amb el Registre Electrònic General de l’Administració General de l’Estat.
+
+3. D’acord amb l’article 37.3 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, els registres electrònics han d’admetre:
+a) Documents electrònics interoperables corresponents als serveis, els procediments i els tràmits que s’especifiquin de conformitat amb el que disposi la norma de creació del registre, emplenats d’acord amb formats preestablerts.
+b) Qualsevol sol·licitud, escrit o comunicació diferent dels que esmenta la resposta a), adreçat a qualsevol Administració pública.
+c) Les respostes a) i b) són correctes.
+d) Documents electrònics normalitzats corresponents als serveis, els procediments i els tràmits que s’especifiquin de conformitat amb el que disposi la norma de creació del registre, emplenats d’acord amb formats preestablerts.
+
+4. L’afirmació «No es consideren presentats en el registre els documents i la informació, el règim especial dels quals estableixi una altra forma de presentació»:
+a) L’estableix l’article 16.7 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i no cal comunicar aquesta circumstància a l’interessat i informar-lo dels requisits que exigeix la legislació específica aplicable.
+b) L’estableix l’article 16.7 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i cal comunicar aquesta circumstància a l’interessat.
+c) L’estableix l’article 16.8 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i, a més, l’article 37 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, afegeix que cal comunicar aquesta circumstància a l’interessat i informar-lo dels requisits que exigeix la legislació específica aplicable.
+d) És una afirmació falsa, ja que tots els documents i la informació presentats al registre sempre s’han de donar per presentats, tal com estableix l’article 16.8 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+
+5. Segons l’article 38 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, els assentaments practicats a través de les aplicacions de què disposin les unitats que facin anotacions en registre:
+a) Són una de les parts que configuren el Registre Electrònic General de l’Administració General de l’Estat.
+b) Són una de les parts que configuren el registre únic de cada Administració.
+c) Juntament amb les anotacions que es facin des de qualsevol aplicació que proporcioni suport a procediments específics, configuren el Registre Electrònic General de l’Administració General de l’Estat en la seva totalitat.
+d) Juntament amb les anotacions que es practiquin per mitjans electrònics, configuren el Registre Electrònic General de l’Administració General de l’Estat en la seva totalitat.
+
+6. Un ciutadà ha de presentar una sol·licitud dirigida a l’Ajuntament d’Alaró i no hi ha un model normalitzat de presentació, per la qual cosa presenta la sol·licitud per mitjà del servei electrònic per a la presentació de sol·licituds accessible des del punt d’accés general electrònic (PAGe) de l’Administració General de l’Estat. Senyalau la resposta correcta en relació amb l’anotació.:
+a) No genera cap anotació en el Registre Electrònic General de l’Administració General de l’Estat. Aquest servei electrònic és una passarel·la d’interconnexió amb el Registre Electrònic General de l’Ajuntament d’Alaró, Registre en el qual es genera l’anotació.
+b) Genera una anotació en el Registre Electrònic General de l’Administració General de l’Estat que només té plena eficàcia i validesa per a l’Administració General de l’Estat.
+c) Genera una anotació en el Registre Electrònic General de l’Administració General de l’Estat que té plena eficàcia i validesa per a l’Ajuntament d’Alaró.
+d) Genera una anotació en el Registre Electrònic General de l’Administració General de l’Estat, però no té plena eficàcia i validesa per a l’Ajuntament d’Alaró, ja que aquest ajuntament no disposa de Sistema d’interconnexió de registres.
+
+7. Quina informació no és necessari que contenguin els assentaments que s’efectuïn en els registres electrònics generals i particulars d’apoderaments?
+a) La causa d’anul·lació del poder.
+b) El període de temps pel qual s’atorga el poder.
+c) El tipus de poder segons les facultats que atorgui.
+d) El noms i cognoms o la denominació o raó social, el document nacional d’identitat, el número d’identificació fiscal o el document equivalent del poderdant.
+
+8. Pel que fa al registre electrònic d’apoderaments, quina validesa màxima tenen els poders inscrits en aquest registre?
+a) De cinc anys a comptar des de la data d’inscripció.
+b) De cinc anys a comptar des de la data d’inscripció, sense possibilitat de pròrroga.
+c) De deu anys a comptar des de la data d’inscripció.
+d) De deu anys a comptar des de la data d’inscripció, sense possibilitat de pròrroga.
+
+9. D’acord amb l’article 39 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, i sempre que compleixin el que preveuen l’Esquema Nacional d’Interoperabilitat i la normativa corresponent, les administracions públiques:
+a) Poden determinar els formats als quals s’han d’ajustar els documents presentats per les persones interessades en el registre. En canvi, els estàndards els estableix la Norma tècnica d’interoperabilitat de model de dades per a l’intercanvi d’assentaments entre entitats registrals.
+b) Poden determinar els formats i els estàndards als quals s’han d’ajustar els documents presentats per les persones interessades en el registre.
+c) Poden determinar els estàndards als qual s’han d’ajustar els documents presentats per les persones interessades en el registre. A més, els formats dels documents poden ser de qualsevol tipus, mentre sigui un format de dades obert.
+d) Aquest article no fa referència ni a estàndards ni a formats de documents.
+
+10. Quin reglament regula el Registre Electrònic General de la Comunitat Autònoma de les Illes Balears?
+a) El Decret 113/2003, de 5 de novembre, d’accés electrònic als serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+b) No hi ha regulació autonòmica al respecte; per tant, s’hi aplica la regulació de l’Ordre PCM/1382/2021, de 9 de desembre, per la qual es regula el Registre Electrònic General de l’Administració General de l’Estat.
+c) No hi ha cap normativa que ho reguli.
+d) El Real decret 203/2021, del 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics.
+
+11. En una actuació administrativa amb la Direcció General d’Esports, una filla vol actuar com a representant del seu pare per sol·licitar un ajut per transportar la bicicleta en avió per participar en una lliga ciclista a Sevilla. Com pot acreditar la representació?
+a) Mitjançant apoderament efectuat per compareixença electrònica a les oficines d’assistència en matèria de registre o compareixença personal en la corresponent seu electrònica o seu electrònica associada.
+b) Mitjançant l’acreditació de la seva inscripció en el registre electrònic d’apoderaments de l’Administració pública competent o en els seus registres particulars d’apoderaments.
+c) Mitjançant un certificat electrònic de representant.
+d) Mitjançant un document privat la matriu del qual consti en un arxiu notarial o una inscripció practicada en un registre mercantil.
+
+12. Segons la disposició addicional segona de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, si una comunitat autònoma opta per mantenir el seu propi registre electrònic o plataforma d’intermediació de dades, aquesta Administració ha de garantir que aquest compleix amb:
+a) Amb l’Esquema Nacional d’Interoperabilitat i les seves normes tècniques de desenvolupament.
+b) Amb l’Esquema Nacional d’Interoperabilitat, l’Esquema Nacional de Seguretat i les seves normes tècniques de desenvolupament.
+c) Amb l’Esquema Nacional de Seguretat i les seves normes tècniques de desenvolupament.
+d) Amb l’Esquema Nacional d’Interoperabilitat i l’Esquema Nacional de Seguretat.
+
+13. En matèria de normes generals d’actuació del sector públic, els registres electrònics de totes i cada una de les administracions han de ser plenament interoperables. Què se n’ha de garantir, d’acord amb l’article 16.4 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques?
+a) La compatibilitat informàtica i la interconnexió, així com la codificació segura dels assentaments registrals i dels documents que es presentin a qualsevol dels registres.
+b) La compatibilitat informàtica i la interconnexió, així com la codificació segura dels assentaments registrals i de les sol·licituds, els escrits i les comunicacions que es presentin a qualsevol dels registres.
+c) La compatibilitat informàtica i la interconnexió, així com la transmissió telemàtica dels assentaments registrals i dels documents que es presentin a qualsevol dels registres.
+d) La compatibilitat informàtica i la interconnexió, així com la transmissió telemàtica dels assentaments registrals i de les sol·licituds, els escrits i les comunicacions que es presentin a qualsevol dels registres.
+
+14. Com es diu la norma tècnica d’interoperabilitat que tracta els aspectes tècnics per a l’intercanvi d’assentaments registrals?
+a) Norma tècnica de protocols d’intermediació de dades entre les entitats registrals.
+b) Norma tècnica de model de dades per a l’intercanvi d’assentaments entre les entitats registrals.
+c) Norma tècnica de política de gestió de documents electrònics de les entitats registrals.
+d) Norma tècnica d’interoperabilitat de preservació de documentació electrònica de les entitats registrals.
+
+15. Senyalau la resposta incorrecta. En relació amb la Norma tècnica de model de dades per a l’intercanvi d’assentaments entre les entitats registrals:
+a) Tracta els aspectes funcionals i tècnics per a l’intercanvi d’assentaments registrals.
+b) Tracta la gestió d’errors i excepcions per a l’intercanvi d’assentaments registrals.
+c) Tracta els formats i les metadades associades al procés de digitalització per a l’intercanvi d’assentaments registrals.
+d) Tracta la gestió d’annexos per a l’intercanvi d’assentaments registrals.
+
+16. D’acord el Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, quina norma tècnica tracta del registre electrònic d’apoderaments?
+a) Norma tècnica d’interoperabilitat de transferència i condicions d’interoperabilitat dels registres electrònics d’apoderaments i de funcionaris habilitats.
+b) Norma tècnica d’interoperabilitat del model de dades i condicions d’interoperabilitat dels registres electrònics d’apoderaments i de funcionaris habilitats.
+c) Norma tècnica d’interoperabilitat de transferència i condicions d’interoperabilitat dels registres electrònics d’apoderaments.
+d) Norma tècnica d’interoperabilitat del model de dades i condicions d’interoperabilitat dels registres electrònics d’apoderaments.
+
+17. Què tracta la Norma tècnica de model de dades per a l’intercanvi d’assentaments entre les entitats registrals?
+a) Els aspectes funcionals i tècnics per a l’intercanvi d’assentaments registrals, la gestió d’errors i excepcions, la gestió d’annexos, els requeriments tecnològics i les transformacions de formats.
+b) Els aspectes funcionals per a l’intercanvi d’assentaments registrals, la gestió d’errors i excepcions, la digitalització, els requeriments tecnològics i les transformacions de formats.
+c) Els aspectes tècnics per a l’intercanvi d’assentaments registrals, la gestió d’errors i excepcions, la digitalització, els requeriments tecnològics i les transformacions de formats.
+d) Els aspectes tècnics per a l’intercanvi d’assentaments registrals, la gestió d’errors i excepcions, la gestió d’annexos, els requeriments tecnològics i les transformacions de formats.
+
+18. D’acord amb l’article 39 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, quan la mida dels documents registrats excedeixi la capacitat que es determini per al Sistema d’interconnexió de registres:
+a) La seva tramesa a l’Administració i a l’òrgan a què s’adrecen es pot substituir per la impressió en paper d’una còpia autèntica dels documents, prèviament registrats correctament en el registre electrònic general.
+b) El Sistema d’interconnexió de registres no determina una capacitat màxima dels documents registrats.
+c) La seva tramesa a l’Administració i a l’òrgan a què s’adrecen es pot substituir per la posada a disposició dels documents, prèviament dipositats en un repositori d’intercanvi de fitxers.
+d) La capacitat màxima dels documents registrats no la determina per al Sistema d’Interconnexió de Registres, ja que depèn de la infraestructura tecnològica de l’Administració o l’òrgan a què van dirigits.
+
+19. Senyalau la resposta correcta en relació amb l’article 39 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i Funcionament del sector públic per mitjans electrònics:
+a) Si la mida dels documents registrats excedeix la capacitat que es determini per al Sistema d’interconnexió de registres, es poden depositar en un repositori d’intercanvi de fitxers i remetre a l’Administració a que van dirigits per sistemes de missatgeria electrònica.
+b) Per al Sistema d’interconnexió de registres, la capacitat pel que fa a la mida dels documents registrats és il·limitada.
+c) Si la mida dels documents registrats excedeix la capacitat que es determini per al Sistema d’interconnexió de registres, la seva tramesa a l’Administració i a l’òrgan a què s’adrecen es pot substituir per la posada a disposició dels documents, prèviament dipositats en un repositori d’intercanvi de fitxers.
+d) Per al Sistema d’interconnexió de registres, hi ha una limitació de capacitat en la mida dels documents registrats, però només si l’Administració a què van dirigits no està integrada dintre de la xarxa SARA (sistema d’aplicacions i xarxes per a les administracions).
+
+20. Quina entitat gestiona el Sistema d’interconnexió de registres (SIR)?
+a) El Ministeri de Política Territorial i Funció Pública en col·laboració amb l’òrgan de cada Administració responsable en matèria de transformació de les entitats registrals.
+b) El Ministeri d’Assumptes Econòmics i Transformació Digital en col·laboració amb el Ministeri de Política Territorial i Funció Pública.
+c) El Ministeri de Política Territorial i Funció Pública.
+d) L’òrgan de cada Administració responsable en matèria de transformació de les entitats registrals.
+
+21. Senyalau la resposta correcta. En relació amb les interconnexions entre registres de les administracions públiques:
+a) Són regulades per la Norma tècnica de format de dades per a l’intercanvi d’assentaments entre les entitats registrals.
+b) S’han de dur a terme a través del Sistema d’interconnexió de registres (SIR).
+c) Es poden dur a terme a través del Sistema d’interconnexió de registres (SIR) o a través del Registre Electrònic General (REG).
+d) Totes les respostes són falses.
+
+22. Les interconnexions entre registres de les administracions públiques s’han de dur a terme a través del Sistema d’interconnexió de registres (SIR), d’acord amb el que preveu:
+a) L’Esquema Nacional d’Interoperabilitat.
+b) La corresponent Norma tècnica d’interoperabilitat.
+c) L’Esquema Nacional d’Interoperabilitat i l’Esquema Nacional de Seguretat.
+d) Les respostes a) i b) són correctes.
+
+23. En referència amb l’afirmació «Les aplicacions o els sistemes d’informació per al tractament del registre electrònic general d’una administració hauran de permetre la interoperabilitat amb els sistemes de gestió d’expedients de les unitats de tramitació corresponents»:
+a) És correcta en l’àmbit de totes les administracions públiques, però no dels seus organismes vinculats o dependents.
+b) És correcta en l’àmbit de la Administració General de l’Estat i dels seus organismes públics i entitats de dret públic vinculats o dependents.
+c) És incorrecta. La interoperabilitat amb els gestors d’expedients encara no està prevista en cap normativa.
+d) És incorrecta. La interoperabilitat amb els gestors d’expedients només està prevista amb els registres electrònics dels organismes públics o entitats de dret públic vinculats o dependents de l’Administració General de l’Estat.
+
+24. Indicau la resposta correcta. Qui té dret a comunicar-se amb les administracions públiques a través d’un punt d’accés general electrònic de l’Administració?
+a) Les persones físiques o jurídiques que tenen capacitat jurídica.
+b) Les persones físiques que tenen capacitat d’obrar d’acord amb les normes civils.
+c) Les persones jurídiques que tenen capacitat d’obrar d’acord amb les normes processals.
+d) Els grups d’afectats i les unions i entitats sense personalitat jurídica.
+
+25. Els ciutadans i les ciutadanes que tenen capacitat d’obrar davant les administracions públiques tenen, en les seves relacions amb aquestes, els drets següents:
+a) A obtenir i utilitzar els mitjans d’identificació i signatura electrònica que preveu la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+b) A complir les obligacions de pagament a través dels mitjans electrònics que preveu la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+c) Les respostes a) i b) són correctes.
+d) Totes les respostes són incorrectes.
+
+26. Quin d’aquests subjectes està obligat a rebre per mitjans electrònics les notificacions generades per l’Agència Tributària de les Illes Balears en l’exercici de les seves funcions?
+a) Un professional la col·legiació del qual és obligatòria i s’hi relaciona en exercici de la seva activitat professional.
+b) Les herències jacents.
+c) Les comunitats de béns.
+d) Totes les respostes són correctes.
+
+27. Si, en l’exercici de les seves funcions, l’Agència Tributària de les Illes Balears ha de practicar una comunicació a una comunitat de propietaris, ho ha de fer per mitjans electrònics?
+a) Sí.
+b) No, les comunitats de propietaris no estan obligades a relacionar-se electrònicament amb l’Administració.
+c) No, les comunitats de propietaris només estan obligades a rebre notificacions administratives, però no comunicacions.
+d) Sí, sempre que així ho hagi sol·licitat la comunitat de propietaris.
+
+28. En quins casos no s’efectuaran per mitjans electrònics les notificacions que hagi de practicar l’Agència Tributària de les Illes Balears (ATIB) en l’exercici de les seves funcions?
+a) En els procediments de liquidació de tributs propis.
+b) En la tramitació de reclamacions economicoadministratives.
+c) Quan així ho sol·liciti l’interessat.
+d) Totes les respostes són incorrectes.
+
+29. Una persona jurídica ha de rebre les notificacions de l’Agència Tributària de les Illes Balears per mitjans electrònics?
+a) Sí, en qualsevol cas.
+b) Sí, excepte en els casos en què la normativa tributària estableix que les notificacions no es facin per mitjans electrònics.
+c) No.
+d) Sí, sempre que es tracti d’actuacions que duguin a terme els òrgans i les unitats de l’Agència en relació amb els tributs propis de la Comunitat Autònoma.
+
+30. En el cas de les persones físiques, poden els ministeris de l’Administració General de l’Estat establir l’obligació de fer els tràmits electrònicament en determinats procediments?
+a) Sí, mitjançant un reial decret del Consell de Ministres o una ordre ministerial.
+b) Sí, mitjançant una resolució de la persona titular del ministeri corresponent per raó de la matèria.
+c) Sí, en els termes que indica l’article 14.3 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+d) Les respostes a) i c) són correctes.
+
+31. Indicau la resposta correcta en relació amb els drets i les obligacions de relacionar-se electrònicament amb les administracions públiques:
+a) Estan obligats a relacionar-se a través de mitjans electrònics amb les administracions públiques per dur a terme qualsevol tràmit d’un procediment administratiu els subjectes a què es refereix l’article 14.2 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+b) Estan obligats a relacionar-se a través de mitjans electrònics amb les administracions públiques per dur a terme qualsevol tràmit d’un procediment administratiu, almenys, els subjectes a què es refereix l’article 14.2 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+c) Estan obligats a relacionar-se a través de mitjans electrònics amb les administracions públiques per dur a terme qualsevol tràmit, almenys, els subjectes a què es refereix l’article 14.2 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques.
+d) Totes les respostes són incorrectes.
+
+32. Les entitats sense personalitat jurídica estan obligades a rebre comunicacions administratives?
+a) Sí.
+b) No, només estan obligades si es tracta de notificacions administratives.
+c) No.
+d) Totes les respostes són incorrectes.
+
+33. Si la Conselleria de Salut i Consum ha de notificar a una persona jurídica un tràmit d’un procediment iniciat d’ofici i no disposa de dades de contacte electròniques per practicar l’avís de la seva posada a disposició, com ha de rebre l’interessat la notificació?
+a) Li ha de fer la primera notificació en paper, encara que es tracti d’un subjecte obligat a relacionar-se electrònicament amb les administracions públiques.
+b) Li pot fer les notificacions en paper, fins que la persona interessada compareix en el procediment.
+c) Li ha de fer la notificació per mitjans electrònics igualment, atès que es tracta d’un subjecte obligat a relacionar-se electrònicament amb les administracions públiques.
+d) Li ha de trametre un ofici en paper per avisar-la de la posada a disposició de la notificació a la carpeta ciutadana.
+
+34. Quan una persona física comunica a l’Administració pública corresponent la voluntat de relacionar-s’hi electrònicament, en quin moment es produeixen els efectes d’aquesta comunicació?
+a) L’endemà que l’òrgan competent per tramitar el procediment té constància de la comunicació.
+b) Al cinquè dia hàbil següent en què l’òrgan competent per tramitar el procediment té constància de la comunicació.
+c) Hi ha persones físiques que no poden exercir aquest dret i tenen l’obligació de relacionar-se electrònicament amb l’Administració pública del Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+d) Totes les respostes són incorrectes.
+
+35. Indicau quins d’aquests subjectes estan obligats a relacionar-se electrònicament amb les administracions públiques per fer un tràmit d’un procediment administratiu:
+a) Les comunitats de propietaris.
+b) Les comunitats de béns.
+c) Les societats civils constituïdes per pactes secrets entre els socis.
+d) Totes les respostes són correctes.
+
+36. Quin d’aquests principis generals regeix les actuacions i el funcionament del sector públic per mitjans electrònics?
+a) El principi de personalització.
+b) El principi d’accessibilitat.
+c) El principi de facilitat d’ús.
+d) Totes les respostes són correctes.
+
+37. Quin d’aquests principis generals és específic de les actuacions i el funcionament del sector públic per mitjans electrònics?
+a) El principi de racionalització i agilitat dels procediments administratius.
+b) El principi d’accessibilitat.
+c) El principi de simplicitat, claredat i proximitat als ciutadans.
+d) Totes les respostes són incorrectes.
+
+38. El servei d’informació telefònica 012, és un servei que han d’oferir obligatòriament les administracions públiques?
+a) Només en el cas de les comunitats autònomes.
+b) Sí.
+c) En determinats casos.
+d) Totes les respostes són incorrectes.
+
+39. Quina de les condicions següents forma part de les condicions generals d’utilització del servei d’atenció telefònica 012?
+a) El servei prestat té caràcter permanent, si bé es pot prestar de forma temporal, com per exemple durant determinades campanyes.
+b) S’ha de vetlar perquè els usuaris amb discapacitat auditiva disposin de les facilitats que permetin una adequada atenció.
+c) El servei està obert a tots els ciutadans sense necessitat de registre previ.
+d) Les respostes b) i c) són correctes.
+
+40. Quin òrgan superior de l’Administració de la Comunitat Autònoma de les Illes Balears exerceix les funcions en matèria d’informació i atenció a la ciutadania?
+a) La Direcció General de Modernització i Administració Digital.
+b) La Direcció General de Participació, Transparència i Voluntariat.
+c) La Direcció General de Qualitat dels Serveis.
+d) Totes les respostes són incorrectes.
+
+41. Indicau la resposta correcta en relació amb l’assistència en l’ús de mitjans electrònics:
+a) Les administracions públiques han d’assistir en l’ús de mitjans electrònics als interessats que no estan obligats a relacionar-se electrònicament amb l’Administració, quan ho sol·licitin.
+b) Les administracions públiques han de garantir que els interessats es poden relacionar amb l’Administració a través de mitjans electrònics.
+c) Si un interessat que no està obligat a relacionar-se electrònicament amb l’Administració no disposa dels mitjans electrònics necessaris, la seva identificació en el procediment la pot dur a terme un funcionari públic.
+d) Totes les respostes són correctes.
+
+42. Indicau la resposta correcta. Les administracions públiques:
+a) Han d’assistir en l’ús de mitjans electrònics als interessats no inclosos en els apartats 2 i 3 de l’article 14 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, que així ho sol·licitin.
+b) Han d’assistir en l’ús de mitjans electrònics als interessats que no estiguin obligats a relacionar-se electrònicament amb l’Administració que així ho sol·licitin.
+c) Han d’assistir en l’ús de mitjans electrònics les persones físiques que tenen la condició d’interessat en un procediment i no estiguin obligades a relacionar-se electrònicament amb les administracions públiques.
+d) Totes les respostes són correctes.
+
+43. Indicau la resposta correcta en relació amb els canals d’atenció a la ciutadania:
+a) S’entén per portal d’internet el punt d’accés electrònic la titularitat del qual correspon a una administració pública, un organisme o una entitat de dret públic que permet l’accés a través d’internet a la informació i, si escau, a la seu electrònica o seu electrònica associada corresponent.
+b) Els portals d’internet han de disposar de sistemes que permetin l’establiment de mesures de seguretat d’acord amb el que estableix el Reial decret 3/2010, de 8 de gener, pel qual es regula l’Esquema Nacional de Seguretat en l’àmbit de l’Administració electrònica.
+c) Els organismes públics han de comptar amb un punt d’accés general electrònic (PAGe).
+d) Totes les respostes són correctes.
+
+44. El canal telefònic, les xarxes socials i el correu electrònic són canals d’atenció a la ciutadania?
+a) No, són canals d’assistència als interessats per a l’accés als serveis electrònics.
+b) Sí.
+c) No, són canals d’assistència a la ciutadania per a l’accés als serveis electrònics.
+d) Totes les respostes són incorrectes.
+
+45. En relació amb l’atenció telefònica a la ciutadania, per a quin tipus de servei es reserven els nombres curts de tres xifres?
+a) Per a la prestació de serveis d’interès social.
+b) Per a la prestació de serveis de valor social.
+c) Les respostes anteriors són correctes.
+d) Totes les respostes són incorrectes.
+
+46. Indicau la resposta correcta. L’obligació d’assistir en l’ús de mitjans electrònics als interessats que no estan obligats a relacionar-se electrònicament es predica:
+a) Dels empleats públics.
+b) Del sector públic instrumental.
+c) De les administracions públiques.
+d) Les respostes b) i c) són correctes.
+
+47. El 2 d’abril de 2021 és la data d’entrada en vigor dels preceptes de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques relatius, entre d’altres, al registre electrònic i al registre d’empleats públics habilitats?
+a) Sí.
+b) No, és el 2 d’octubre de 2018.
+c) No, és el 2 d’octubre de 2020.
+d) Totes les respostes són incorrectes.
+
+48. Quan el representant d’una empresa es presenta davant una oficina d’assistència en matèria de registres (OAMR) per interposar un recurs d’alçada contra una resolució que se li ha notificat i el document està en format paper:
+a) L’OAMR ha de digitalitzar el document per incorporar-lo a l’expedient administratiu i se li ha de requerir la corresponent esmena.
+b) L’OAMR ha de digitalitzar el document per incorporar-lo a l’expedient administratiu, però no se li ha de tornar el document, pel fet de tractar-se d’una persona jurídica.
+c) No s’ha d’entendre presentat el recurs d’alçada.
+d) Totes les respostes són incorrectes.
+
+49. Quin òrgan directiu de l’Administració de la Comunitat Autònoma de les Illes Balears té les funcions d’ordenació i coordinació de les oficines d’assistència en matèria de registres (OAMR)?
+a) La conselleria competent en matèria d’Administració digital.
+b) La conselleria competent en matèria de qualitat dels serveis.
+c) La Conselleria de Fons Europeus, Universitat i Cultura.
+d) Totes les respostes són incorrectes.
+
+50. Quina d’aquestes funcions han passat a assumir les oficines de registre a partir de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques?
+a) L’atorgament d’apoderaments apud acta mitjançant la compareixença personal de l’interessat.
+b) L’escaneig de documents presentats en paper.
+c) El registre de la ciutadania a la plataforma Cl@ve.
+d) L’acarament i l’expedició de còpies compulsades de documents originals aportats pels interessats.
+
+51. En relació amb les funcions de les oficines d’assistència en matèria de registres (OAMR), què ha de fer l’Administració pública si, per qualsevol circumstància, un cop digitalitzat un document no es pot tornar a l’interessat?
+a) L’ha de conservar durant un temps determinat.
+b) L’ha de trametre a l’interessat a través del NOTIB.
+c) El pot destruir.
+d) Totes les respostes són incorrectes.
+
+52. Indicau la resposta correcta. Quan es presenta un document davant una oficina d’assistència en matèria de registre (OAMR):
+a) S’ha de fer el corresponent assentament de tot document que sigui presentat. També s’ha d’anotar la sortida dels documents oficials dirigits a altres òrgans o particulars.
+b) S’ha de fer el corresponent assentament de tot document que sigui presentat. També es pot anotar la sortida dels documents oficials dirigits a altres òrgans o particulars.
+c) S’ha de fer el corresponent assentament de tot document que sigui presentat. També s’ha d’anotar la sortida dels documents oficials dirigits a particulars.
+d) Totes les respostes són incorrectes.
+
+53. Quina d’aquestes funcions no està assignada a les oficines d’assistència en matèria de registres (OAMR)?
+a) L’anotació dels assentaments de sortida dels documents.
+b) L’anotació dels documents en el registre electrònic.
+c) La identificació o la signatura electrònica de l’interessat, excepte en el cas de persones jurídiques.
+d) Totes són funcions de les OAMR.
+
+54. Els documents en suport no electrònic presentats pel representant d’una comunitat de béns a través de les oficines d’assistència en matèria de registres:
+a) S’han de digitalitzar i s’han de tornar les còpies dels documents.
+b) S’han de digitalitzar, però no s’han d’incorporar a l’expedient administratiu electrònic.
+c) S’han de rebutjar, perquè qui els presenta és un subjecte obligat a relacionar-se obligatòriament amb l’Administració.
+d) S’han de digitalitzar els documents, però se li ha de requerir l’esmena de deficiències.
+
+55. Les oficines d’assistència en matèria de registres han d’admetre qualsevol escrit o sol·licitud que els presentin els interessats?
+a) Sí, sempre.
+b) Sí, excepte si és anònim.
+c) Sí, excepte que sigui d’una entitat sense personalitat jurídica.
+d) Sí, sempre que sigui d’una persona física.
+
+56. Amb caràcter general, són funcions de les oficines d’assistència en matèria de registres:
+a) Identificar els interessats en el procediment.
+b) Atorgar apoderaments per compareixença.
+c) Anotar els assentaments de sortida, quan correspongui.
+d) Totes les respostes són correctes.
+
+57. Senyalau la resposta correcta. Segons la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques:
+a) Les administracions públiques han d’assistir en l’ús de mitjans electrònics als ciutadans.
+b) Els organismes públics han d’assistir en l’ús de mitjans electrònics als ciutadans.
+c) Les entitats de dret públic vinculades o dependents d’una administració pública han d’assistir en l’ús de mitjans electrònic a determinats interessats.
+d) Totes les respostes són incorrectes.
+
+58. Quina de les prestacions següents no forma part del conjunt mínim de prestacions oferides a la persona usuària a través del servei telefònic 012?
+a) Informació sobre la presentació de queixes o reclamacions i recepció de suggeriments.
+b) Atenció de consultes sobre l’accés a l’estat de la tramitació d’expedients.
+c) Recepció d’avisos sobre incidències en el funcionament dels serveis públics.
+d) Informació general sobre el tractament administratiu de les qüestions que es plantegin.
+
+59. Segons el Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears, tenen la consideració de queixa:
+a) Les manifestacions o les declaracions efectuades pels ciutadans i les ciutadanes en què facin constar la disconformitat amb la prestació dels serveis públics, especialment sobre els retards, les desatencions o qualsevol altra anomalia en el seu funcionament.
+b) Les manifestacions, aportacions o suggeriments efectuats pels ciutadans i ciutadanes en què facin constar la disconformitat amb la prestació dels serveis públics.
+c) Les manifestacions o les declaracions efectuades pels ciutadans i les ciutadanes en què facin constar la disconformitat amb la prestació dels serveis públics.
+d) Les manifestacions o les declaracions efectuades pels ciutadans i les ciutadanes en què facin constar la disconformitat amb la prestació dels serveis públics, especialment sobre els retards o qualsevol altra anomalia en el funcionament.
+
+60. El Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears no és aplicable:
+a) Als ajuntaments.
+b) A les persones físiques i jurídiques adjudicatàries de contractes de col·laboració entre el sector públic i el privat en relació amb la seva activitat de prestació de serveis amb l’Administració de la Comunitat Autònoma de les Illes Balears.
+c) Als consells insulars.
+d) Les respostes a) i c) són correctes.
+
+61. Quin és el termini en què s’han de respondre les queixes i els suggeriments?
+a) Quinze dies hàbils des que el ciutadà o la ciutadana presenta la queixa o el suggeriment per telefax.
+b) Quinze dies hàbils des que el ciutadà o la ciutadana presenta la queixa o el suggeriment a través de la Seu Electrònica de la Comunitat Autònoma de les Illes Balears.
+c) Quinze dies hàbils des que el ciutadà o la ciutadana presenta la queixa o el suggeriment verbalment, per mitjà del telèfon d’informació 012.
+d) Totes les respostes són correctes.
+
+62. El Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears el desplega:
+a) L’Ordre de la consellera d’Administracions Públiques d’1 d’agost de 2014 per la qual es desplega el Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de queixes i suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+b) L’Ordre de la consellera d’Administracions Públiques d’1 d’agost de 2011 per la qual es desplega el Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de queixes i suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+c) L’Ordre de la consellera d’Administracions Públiques d’1 d’agost de 2013 per la qual es desplega el Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de queixes i suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+d) L’Ordre de la consellera d’Administracions Públiques d’1 d’agost de 2012 per la qual es desplega el Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de queixes i suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+
+63. Indicau la resposta correcta en relació amb la formulació de les queixes i els suggeriments:
+a) Les queixes es poden presentar amb caràcter anònim; ara bé, han de contenir una breu descripció del seu contingut essencial.
+b) En les queixes la persona usuària s’ha d’identificar, i en el cas dels suggeriments els pot presentar amb caràcter anònim; ara bé, han de contenir una breu descripció del seu contingut essencial.
+c) La persona usuària sempre s’ha d’identificar, tant en les queixes com en els suggeriments.
+d) En les queixes la persona usuària es pot identificar, i en el cas dels suggeriments els pot presentar amb caràcter anònim.
+
+64. En el cas que la persona usuària no obtengui resposta un cop transcorregut el termini per resoldre una queixa o suggeriment:
+a) Pot adreçar-se a la Inspecció General de Serveis Públics i Qualitat.
+b) Pot interposar un recurs administratiu.
+c) Pot interposar una reclamació administrativa davant l’òrgan a què es refereix l’article 11 del Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+d) Totes les respostes són incorrectes.
+
+65. En relació amb les queixes i els suggeriments, els òrgans o ens que utilitzen una aplicació diferent de la d’ús general (QSSI) han de remetre anualment a la direcció general competent en matèria de qualitat dels serveis dades estadístiques referides a aquesta matèria que incloguin informació sobre els aspectes següents:
+a) Municipi on estan ubicats els centres o unitats administratives que presten el servei públic sobre el qual versa la queixa o el suggeriment.
+b) Tots els centres o unitats han d’utilitzar sempre l’aplicació informàtica anomenada QSSI.
+c) Temps màxim de resposta.
+d) Totes les respostes són incorrectes.
+
+66. Senyalau la resposta correcta en relació amb les queixes i els suggeriments:
+a) A cada conselleria i ens del sector públic s’han de constituir equips de millora encarregats d’analitzar totes les queixes i els suggeriments amb les respectives respostes i s’han de proposar i impulsar les accions de millora que es desprenguin d’aquesta anàlisi.
+b) A cada conselleria s’han de constituir equips de millora que s’han de reunir, com a mínim, anualment, a fi de fer una anàlisi global de les queixes i els suggeriments que es presentin en l’àmbit de les seves competències i les respostes corresponents, per proposar i impulsar les accions de millora que es desprenguin d’aquesta anàlisi.
+c) A cada conselleria s’han de constituir equips de millora que s’han de reunir, com a mínim, trimestralment, a fi de fer una anàlisi global de les queixes i els suggeriments que es presentin en l’àmbit de les seves competències i les respostes corresponents, per proposar i impulsar les accions de millora que es desprenguin d’aquesta anàlisi.
+d) Totes les respostes són incorrectes.
+
+67. Les persones físiques i jurídiques poden presentar les queixes i els suggeriments:
+a) Verbalment, per mitjà del telèfon d’informació 012.
+b) Les persones jurídiques no poden presentar queixes i suggeriments.
+c) Per telefax. En aquest cas, l’escrit no ha de tenir les formalitats a què es refereix l’article 8 del Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
+d) Totes les respostes són incorrectes.
+
