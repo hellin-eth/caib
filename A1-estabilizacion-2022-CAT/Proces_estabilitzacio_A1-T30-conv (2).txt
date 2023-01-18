@@ -1,4 +1,4 @@
-﻿1. D’acord amb la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals, els tractaments de dades als quals no sigui directament aplicable el Reglament (UE) 2016/679 perquè afecten activitats no compreses en l’àmbit d’aplicació del dret de la Unió Europea:
+1. D’acord amb la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals, els tractaments de dades als quals no sigui directament aplicable el Reglament (UE) 2016/679 perquè afecten activitats no compreses en l’àmbit d’aplicació del dret de la Unió Europea:
 a) Es regeixen únicament pel que disposa la seva legislació específica si n’hi ha.
 b) Es regeixen pel que disposa la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals i supletòriament pel que estableix el reglament esmentat.
 c) Es regeixen pel que disposa la seva legislació específica si n’hi ha i supletòriament pel que estableix el reglament esmentat i la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals.
@@ -358,10 +358,10 @@ b) Quan es dugui a terme el tractament de dades de grups d’afectats en situaci
 c) Quan el tractament garanteixi als afectats els seus drets i llibertats.
 d) Quan el tractament pugui generar situacions de discriminació.
 
-61. D’acord amb la Llei orgànica 3/2018, de 5 de desembre, de protecció de dades personals i garantia dels drets digitals, què implica el dret a la desconnexió digital en l’àmbit laboral?
+61. D&#8217;acord amb la Llei org&#224;nica 3/2018, de 5 de desembre, de protecci&#243; de dades personals i garantia dels drets digitals, qu&#232; implica el dret a la desconnexi&#243; digital en l&#8217;&#224;mbit laboral?
 a) Que els treballadors i els empleats públics tenen dret a la desconnexió digital a fi de garantir, fora del temps de treball legalment o convencionalment establert, el respecte del seu temps de descans, permisos i vacances, així com de la seva intimitat personal i familiar.
 b) Que els ocupadors poden tractar les imatges obtingudes a través de sistemes de càmeres o càmeres de vídeo per exercir les funcions de control dels treballadors o dels empleats públics previstes, respectivament, en l’article 20.3 de l’Estatut dels treballadors i en la legislació de funció pública.
-c) Que es preservar el dret a la desconnexió digital en els supòsits de realització total o parcial del treball a distància així com al domicili de l’empleat vinculat a l’ús amb finalitats laborals d’eines tecnològiques.
+c) Que els ocupadors poden tractar les dades obtingudes a través de sistemes de geolocalització per a l'exercici de les funcions de control dels treballadors o els empleats públics.
 d) Que els treballadors i els empleats públics tenen dret a la protecció de la seva intimitat en l’ús dels dispositius digitals posats a la seva disposició pel seu ocupador.
 
 62. D’acord amb el Reglament (UE) 2016/679 del Parlament Europeu i del Consell, de 27 de abril de 2016 (Reglament general de protecció de dades), quina informació ha de facilitar el responsable del tractament a l’interessat quan les dades personals s’obtenguin de l’interessat?
@@ -399,4 +399,3 @@ a) S’exigeix al responsable del tractament la satisfacció del dret d’accés
 b) S’exigeix al responsable del tractament la satisfacció del dret d’accés en el termini d’un mes i sense dilacions indegudes.
 c) S’exigeix al responsable del tractament la satisfacció del dret d’accés en el termini de tres mesos i sense dilacions indegudes.
 d) S’exigeix al responsable del tractament la satisfacció del dret d’accés sense importar-ne el termini.
-
