@@ -1,4 +1,4 @@
-﻿1. El Parlament Europeu estarà compost per representants dels ciutadans de la Unió Europea. El seu nombre no excedeix:
+1. El Parlament Europeu estarà compost per representants dels ciutadans de la Unió Europea. El seu nombre no excedeix:
 a) De 649 diputats, més el president.
 b) De 750 diputats més el president.
 c) De 705 diputats, inclòs el president.
@@ -16,11 +16,11 @@ b) Croàcia.
 c) Dinamarca.
 d) Finlàndia.
 
-4. Segons el Tractat de la Unió Europea, el president del Consell Europeu és elegit:
-a) Pel Parlament Europeu, per majoria simple, per a un mandat de cinc anys, que no es podrà renovar.
-b) Pel Consell Europeu, per majoria simple, per a un mandat de cinc anys, que no es podrà renovar.
-c) Pel Consell Europeu, per majoria qualificada, per a un mandat de cinc anys i mig, que es podrà renovar una sola vegada.
-d) Pel Parlament Europeu, per majoria qualificada, per a un mandat de cinc anys i mig, que es podrà renovar una sola vegada.
+4. Segons el Tractat de la Uni&#243; Europea, el president del Consell Europeu &#233;s elegit:
+a) Pel Parlament Europeu, per majoria simple, per a un mandat de dos anys, que no es podrà renovar.
+b) Pel Consell Europeu, per majoria simple, per a un mandat de dos anys, que no es podrà renovar.
+c) Pel Consell Europeu, per majoria qualificada, per a un mandat de dos anys i mig, que es podrà renovar una sola vegada.
+d) Pel Parlament Europeu, per majoria qualificada, per a un mandat de dos anys i mig, que es podrà renovar una sola vegada.
 
 5. D’acord amb l’ article 282.2 del Tractat de funcionament de la Unió Europea, l’objectiu principal del Sistema Europeu de Bancs Centrals és:
 a) Mantenir l’estabilitat de preus.
@@ -46,8 +46,8 @@ b) Té la seu a Luxemburg, on celebra els seus períodes de sessions ordinàries
 c) Té la seu a Estrasburg, on celebra els seus períodes de sessions ordinàries, i la Secretaria General és a Luxemburg.
 d) Té la seu a Estrasburg, on celebra els seus períodes de sessions ordinàries, i la Secretaria General és a Brussel·les.
 
-9. De conformitat amb l’article 288 del Tractat de funcionament de la Unió Europea, indicau quin dels següents actes jurídics de la Unió no són vinculants:
-a) Els consells.
+9. De conformitat amb l'&#8217;article 288 del Tractat de funcionament de la Uni&#243; Europea, indicau quin dels seg&#252;ents actes jur&#237;dics de la Uni&#243; no s&#243;n vinculants:
+a) Els reglaments
 b) Els dictàmens i les recomanacions.
 c) Les decisions.
 d) Les directives.
@@ -328,10 +328,11 @@ b) De quatre anys.
 c) De dos anys.
 d) De tres anys.
 
-56. Quina és la durada del mandat dels Diputats del Parlament Europeu:
+56. Quina és la durada del mandat dels Diputats del Parlament Europeu: 
 a) Cinc anys, que comencen des de la proclamació del diputat electe.
 b) Cinc anys, que comencen amb l’obertura del primer període de sessions després de cada elecció.
-c) Quatre anys, que comencen amb l’obertura del primer període de sessions després de cada elecció.
+c) Quatre anys, que comencen des de la proclamació del diputat electe.
+d) Quatre anys, que comencen amb l’obertura del primer període de sessions després de cada elecció.
 
 57. Les despeses del pressupost de la Unió Europea poden ser:
 a) Ordinàries i extraordinàries.
@@ -345,10 +346,11 @@ b) Per dotze jutges.
 c) Per cinc jutges.
 d) Per set jutges.
 
-59. Després de l’entrada en vigor del Tractat de Lisboa, les institucions són:
+59. Després de l'entrada en vigor del Tractat de Lisboa, les institucions són: 
 a) El Parlament Europeu , el Consell Europeu, el Consell, la Comissió Europea, el Tribunal de Justícia de la Unió Europea, el Tribunal de Comptes i el Banc Central Europeu i el Banc Europeu d’Inversions.
 b) El Parlament Europeu, el Consell Europeu, el Consell, la Comissió Europea, el Tribunal de Justícia de la Unió Europea i el Defensor del Poble.
-c) El Parlament Europeu, el Consell Europeu, el Consell, la Comissió Europea, el Tribunal de Justícia de la Unió Europea, el Tribunal de Comptes i el Banc Central Europeu.
+c) El Parlament Europeu, el Consell Europeu, el Consell, la Comissió Europea i el Tribunal de Justícia de la Unió Europea.
+d) El Parlament Europeu, el Consell Europeu, el Consell, la Comissió Europea, el Tribunal de Justícia de la Unió Europea, el Tribunal de Comptes i el Banc Central Europeu.
 
 60. Quina és la forma d’adopció de decisió, com a norma general, del Consell de la Unió Europea?
 a) Majoria qualificada.
@@ -397,4 +399,3 @@ a) Política monetària dels estats membres amb moneda euro.
 b) Medi ambient.
 c) Xarxes transeuropees.
 d) Cohesió econòmica, social i territorial.
-
