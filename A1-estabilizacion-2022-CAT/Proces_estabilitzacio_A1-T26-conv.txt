@@ -1,4 +1,4 @@
-﻿1. Senyalau la resposta incorrecta. En matèria d’actuació i funcionament del sector públic per mitjans electrònics, en relació amb el registre electrònic:
+1. Senyalau la resposta incorrecta. En matèria d’actuació i funcionament del sector públic per mitjans electrònics, en relació amb el registre electrònic:
 a) Les administracions públiques han de disposar de registres electrònics per rebre i trametre sol·licituds, escrits i comunicacions, que han de ser plenament interoperables de manera que se’n garanteixi la compatibilitat informàtica i la interconnexió en els termes que preveuen l’article 16 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i l’article 60 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el reglament d’actuació i funcionament del sector públic per mitjans electrònics.
 b) Cada Administració ha de disposar d’un registre electrònic general en el qual ha de fer l’assentament de qualsevol document que es presenti o es rebi en qualsevol òrgan administratiu, organisme públic o entitat de dret públic vinculat o dependent.
 c) Els organismes públics i les entitats de dret públic vinculats o dependents de cada Administració poden disposar del seu propi registre electrònic plenament interoperable i interconnectat amb el registre electrònic general de l’Administració a la qual estiguin vinculats o de la qual depenguin.
@@ -16,7 +16,7 @@ b) Qualsevol sol·licitud, escrit o comunicació diferent dels que esmenta la re
 c) Les respostes a) i b) són correctes.
 d) Documents electrònics normalitzats corresponents als serveis, els procediments i els tràmits que s’especifiquin de conformitat amb el que disposi la norma de creació del registre, emplenats d’acord amb formats preestablerts.
 
-4. L’afirmació «No es consideren presentats en el registre els documents i la informació, el règim especial dels quals estableixi una altra forma de presentació»:
+4. L&#8217;afirmaci&#243; &#171;No es consideren presentats en el registre els documents i la informaci&#243;, el r&#232;gim especial dels quals estableixi una altra forma de presentaci&#243;&#187;:
 a) L’estableix l’article 16.7 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i no cal comunicar aquesta circumstància a l’interessat i informar-lo dels requisits que exigeix la legislació específica aplicable.
 b) L’estableix l’article 16.7 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i cal comunicar aquesta circumstància a l’interessat.
 c) L’estableix l’article 16.8 de la Llei 39/2015, d’1 d’octubre, del procediment administratiu comú de les administracions públiques, i, a més, l’article 37 del Reial decret 203/2021, de 30 de març, pel qual s’aprova el Reglament d’actuació i funcionament del sector públic per mitjans electrònics, afegeix que cal comunicar aquesta circumstància a l’interessat i informar-lo dels requisits que exigeix la legislació específica aplicable.
@@ -382,7 +382,7 @@ b) Pot interposar un recurs administratiu.
 c) Pot interposar una reclamació administrativa davant l’òrgan a què es refereix l’article 11 del Decret 82/2009, de 13 de novembre, pel qual es regula la gestió de les queixes i els suggeriments sobre el funcionament dels serveis públics de l’Administració de la Comunitat Autònoma de les Illes Balears.
 d) Totes les respostes són incorrectes.
 
-65. En relació amb les queixes i els suggeriments, els òrgans o ens que utilitzen una aplicació diferent de la d’ús general (QSSI) han de remetre anualment a la direcció general competent en matèria de qualitat dels serveis dades estadístiques referides a aquesta matèria que incloguin informació sobre els aspectes següents:
+65. En relació amb les queixes i els suggeriments, els òrgans o ens que utilitzen una aplicació diferent de la d'ús general (QSSI) han de remetre anualment a la direcció general competent en matèria d'atenció i informació ciutadana dades estadístiques referides a aquesta matèria que incloguin informació sobre els aspectes següents:
 a) Municipi on estan ubicats els centres o unitats administratives que presten el servei públic sobre el qual versa la queixa o el suggeriment.
 b) Tots els centres o unitats han d’utilitzar sempre l’aplicació informàtica anomenada QSSI.
 c) Temps màxim de resposta.

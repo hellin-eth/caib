@@ -1,4 +1,4 @@
-﻿1. D’acord amb l’article 10 de la Constitució espanyola, les normes relatives als drets fonamentals i a les llibertats que la Constitució reconeix s’interpretaran de conformitat amb:
+1. D'acord amb l'article 10 de la Constitució; espanyola, les normes relatives als drets fonamentals i a les llibertats que la Constitució; reconeix s'interpretaran de conformitat amb:
 a) Amb la Declaració Universal dels Drets Humans.
 b) Amb la normativa europea.
 c) Amb els tractats i els acords internacionals sobre aquestes matèries ratificats per Espanya.
@@ -346,9 +346,9 @@ b) De dotze membres nomenats pel rei.
 c) De vuit membres nomenats per les Corts Generals.
 d) De nou membres nomenats pel Senat.
 
-59. D’acord amb el títol I de la Constitució espanyola, els drets i els deures fonamentals:
+59. D'acord amb el títol I de la Constitució espanyola, els drets i els deures fonamentals:
 a) Són absoluts i irrenunciables.
-b) Poden ser limitats per llei orgànica.
+b) Poden ser limitats per Decret Llei.
 c) Tenen el seu límit en el dret dels altres i en altres béns i drets constitucionalment protegits.
 d) Són personals i intransferibles.
 
@@ -388,12 +388,13 @@ b) És reservada només per als crims més greus segons estipuli el codi penal.
 c) Resta abolida, llevat d’allò que disposin les lleis penals militars per a temps de guerra.
 d) Ha de ser aprovada pel Tribunal Suprem, únicament per a temps de guerra.
 
-66. D’acord amb l’article 16 de la Constitució espanyola, es garanteix la llibertat ideològica, religiosa i de culte dels individus i de les comunitats sense cap més limitació, quan siguin manifestats:
+66. D'acord amb l'article 16 de la Constitució; espanyola, es garanteix la llibertat ideològica, religiosa i de culte dels individus i de les comunitats sense cap méss limitació, quan siguin manifestats:
 a) Que la necessària per al manteniment de l’orde públic protegit per la llei.
 b) Que la que sigui indicada per la llei.
 c) Que la prohibició de predicació pública amb la finalitat del proselitisme religiós.
+d) Cap limitació en cap cas.
 
-67. Segons l’article 17 de la Constitució espanyola, la detenció preventiva no podrà durar més temps del que sigui estrictament necessari per fer les indagacions per tal d’aclarir els fets i, en qualsevol cas, el detingut haurà de ser posat en llibertat o a disposició de l’autoritat judicial dins el termini màxim:
+67. Segons l'article 17 de la Constitució; espanyola, la detenció; preventiva no podrà; durar més temps del que sigui estrictament necessari per fer les indagacions per tal d'aclarir els fets i, en qualsevol cas, el detingut haurà de ser posat en llibertat o a disposició; de l'autoritat judicial dins el termini màxim:
 a) De setanta hores.
 b) De setanta-dues hores.
 c) De setanta-vuit hores.

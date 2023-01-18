@@ -1,4 +1,4 @@
-﻿1. El Govern dirigeix:
+1. El Govern dirigeix:
 a) L’Administració civil i militar.
 b) La política interior i exterior.
 c) La defensa de l’Estat.
@@ -394,9 +394,8 @@ b) Una secretaria general tècnica.
 c) Una subsecretaria i una secretaria general tècnica.
 d) Una secretaria d’Estat.
 
-67. D’acord amb l’article 5 de la Llei 50/1997, al Consell de Ministres li correspon:
-a) Dirigir la política de defensa.
-b) Representar el govern.
-c) Declarar els estats d’alarma i excepció.
-d) Crear, modificar i suprimir per reial decret, els departaments ministerials i les secretaries d’Estat.
-
+67. L’article 69 de la Llei 40/2015, de 1 d’octubre, de règim jurídic del sector públic, disposa que hi haurà un subdelegat del Govern:
+a) En totes les províncies, llevat d’aquelles que siguin seu de la Delegació del Govern.
+b) En totes les províncies, excepte en les comunitats autònomes uniprovincials si no s’han creat en aquestes subdelegacions del Govern mitjançant un reial decret.
+c) En totes les províncies.
+d) En totes les províncies, excepte en les comunitats autònomes uniprovincials.

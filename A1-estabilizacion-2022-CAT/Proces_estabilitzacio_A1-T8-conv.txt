@@ -1,38 +1,38 @@
-﻿1. L’organització del Govern, les atribucions i l’estatut personal de cada un dels seus membres s’estableix mitjançant:
-a) Una llei del Parlament aprovada per majoria absoluta.
-b) Una llei del Parlament aprovada per majoria de tres cinquenes parts.
-c) Una llei del Parlament aprovada per majoria simple.
-d) Un decret del president de les Illes Balears.
+1. L’organització del Govern, les atribucions i l’estatut personal de cada un dels seus membres s’estableix mitjançant:
+a) Una llei del Parlament aprovada per majoria de tres cinquenes parts.
+b) Una llei del Parlament aprovada per majoria simple.
+c) Un decret del president de les Illes Balears.
+d) Una llei del Parlament aprovada per majoria absoluta.
 
 2. El president de les Illes Balears rep el tractament de:
-a) Senyor.
-b) Honorable.
-c) Molt Honorable.
-d) Il·lustríssim.
+a) Molt Honorable.
+b) Senyor.
+c) Il·lustríssim.
+d) Honorable.
 
 3. El president de les Illes Balears ha de ser elegit pel Parlament:
-a) Entre els seus membres.
-b) Entre els candidats proposats pels diferents grups polítics.
+a) Entre els caps de llista dels partits amb representació parlamentària.
+b) Entre els seus membres.
 c) Entre els ciutadans espanyols majors d’edat residents a les Illes Balears, inscrits en el cens electoral.
-d) Entre els caps de llista dels partits amb representació parlamentària.
+d) Entre els candidats proposats pels diferents grups polítics.
 
 4. El càrrec de president és incompatible:
 a) Amb l’exercici d’activitats de caràcter professional.
-b) Amb les activitats corresponents a l’administració del patrimoni personal i familiar.
-c) Amb l’exercici de càrrecs representatius, no remunerats, en un partit polític.
-d) Amb l’exercici de càrrecs honorífics en institucions de caràcter social.
+b) Amb l’exercici de càrrecs representatius, no remunerats, en un partit polític.
+c) Amb l’exercici de càrrecs honorífics en institucions de caràcter social.
+d) Amb les activitats corresponents a l’administració del patrimoni personal i familiar.
 
 5. En cas de defunció del president de les Illes Balears, el Govern ha de ser presidit interinament:
 a) Pel vicepresident, si n’hi ha, sempre que tengui la condició de diputat del Parlament de les Illes Balears.
-b) Pel conseller que tengui atribuïda la secretaria del Govern.
-c) Pel president del Parlament de les Illes Balears.
+b) Pel president del Parlament de les Illes Balears.
+c) Pel conseller que tengui atribuïda la secretaria del Govern.
 d) Pel conseller de més edat.
 
 6. El president de les Illes Balears és nomenat:
-a) Pel rei.
-b) Pel Parlament de les Illes Balears.
-c) Pel president del Govern de l’Estat.
-d) Pel Govern de les Illes Balears.
+a) Pel Govern de les Illes Balears.
+b) Pel president del Govern de l’Estat.
+c) Pel Parlament de les Illes Balears.
+d) Pel rei.
 
 7. D’acord amb la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears, al president de les Illes Balears li corresponen atribucions:
 a) De representació i de direcció.
@@ -40,11 +40,11 @@ b) De representació, de gestió i de direcció.
 c) De gestió i de direcció.
 d) De representació i de gestió.
 
-8. Correspon al president de les Illes Balears:
-a) Resoldre els conflictes d’atribucions entre conselleries.
-b) Establir la política general de la Comunitat Autònoma.
-c) Sol·licitar que el Parlament de les Illes Balears es reuneixi en sessió extraordinària.
-d) Exercitar accions judicials i desistir-ne.
+8. Correspon convocar la sessió constitutiva del Parlament de les Illes Balears:
+a) Al president de les Illes Balears.
+b) Al delegat del Govern.
+c) A la Diputació Permanent del Parlament.
+d) Al president del Parlament de les Illes Balears.
 
 9. El president de les Illes Balears respon políticament:
 a) Davant el Parlament.
@@ -53,10 +53,10 @@ c) Davant la ciutadania.
 d) Davant el síndic de greuges.
 
 10. El president de les Illes Balears ha de prendre possessió del càrrec:
-a) En el termini de cinc dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de l’Estat.
-b) En el termini de deu dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de l’Estat.
-c) En el termini de cinc dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de les Illes Balears
-d) En el termini de deu dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de les Illes Balears.
+a) En el termini de cinc dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de les Illes Balears
+b) En el termini de deu dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de les Illes Balears.
+c) En el termini de deu dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de l’Estat.
+d) En el termini de cinc dies comptadors des del dia que s’hagi publicat el reial decret de nomenament en el Butlletí Oficial de l’Estat.
 
 11. L’acte de presa de possessió del càrrec de president de les Illes Balears consisteix:
 a) En l’acceptació del càrrec i l’acatament de la Constitució i de l’Estatut d’autonomia.
@@ -71,22 +71,22 @@ c) Plantejar una qüestió de confiança.
 d) Variar l’estructura del Govern ni modificar l’estructura orgànica bàsica de les conselleries.
 
 13. Correspon al president de les Illes Balears:
-a) Subscriure instruments de col·laboració i cooperació amb l’Estat.
-b) Autoritzar la firma d’instruments de col·laboració i cooperació amb l’Estat.
+a) Autoritzar la firma d’instruments de col·laboració i cooperació amb l’Estat.
+b) Subscriure instruments de col·laboració i cooperació amb l’Estat.
 c) Nomenar i separar els òrgans directius de l’Administració.
 d) Exercir facultats de coordinació dels consells insulars d’acord amb la legislació vigent.
 
 14. Correspon al president de les Illes Balears:
 a) Encomanar transitòriament, en cas de vacant, la titularitat d'una conselleria a un altre membre del Govern.
-b) Autoritzar la signatura dels acords del Consell de Govern.
-c) Sol·licitar que el Parlament de les Illes Balears es reuneixi en sessió ordinària.
+b) Sol·licitar que el Parlament de les Illes Balears es reuneixi en sessió ordinària.
+c) Autoritzar la signatura dels acords del Consell de Govern.
 d) Exercitar la potestat reglamentària mitjançant l’aprovació d’ordres.
 
 15. Indicau la resposta incorrecta. El president de les Illes Balears pot dictar disposicions reglamentàries només en els casos següents:
-a) Determinació de l’organització dels serveis de les conselleries.
+a) Creació i extinció de conselleries.
 b) Determinació de l’estructura de la Presidència.
-c) Creació i extinció de conselleries.
-d) Determinació del règim de suplències dels consellers.
+c) Determinació del règim de suplències dels consellers.
+d) Determinació de l’organització dels serveis de les conselleries.
 
 16. El plantejament de la moció de censura al president de les Illes Balears s’ha de dur a terme d’acord amb el que disposen:
 a) L’Estatut d’autonomia i el Reglament del Parlament.
@@ -95,46 +95,46 @@ c) La llei reguladora del règim jurídic de la Comunitat Autònoma.
 d) El Reglament del Parlament.
 
 17. En el Govern de les Illes Balears, els acords del Consell de Govern s’adopten:
-a) Per majoria dels membres presents, físicament o telemàticament.
-b) Per majoria dels membres presents físicament.
-c) Per majoria absoluta dels membres presents, físicament o telemàticament.
-d) Per unanimitat dels membres presents.
+a) Per unanimitat dels membres presents.
+b) Per majoria absoluta dels membres presents, físicament o telemàticament.
+c) Per majoria dels membres presents físicament.
+d) Per majoria dels membres presents, físicament o telemàticament.
 
 18. No son òrgans de suport i de col·laboració del Govern de les Illes Balears:
-a) Les comissions delegades.
-b) La Comissió de Secretaris Generals.
-c) Els gabinets.
-d) Els comissionats autonòmics.
+a) Els gabinets.
+b) Les comissions delegades.
+c) Els comissionats autonòmics.
+d) La Comissió de Secretaris Generals.
 
 19. En el Govern de les Illes Balears, els gabinets constitueixin estructures de suport polític i tècnic d’assistència i d’assessorament directe:
-a) De la Presidència i dels membres del Govern.
-b) De la Presidència.
-c) De la Presidència, els membres del Govern i els ens del sector públic instrumental.
+a) De la Presidència, els membres del Govern i els ens del sector públic instrumental.
+b) De la Presidència i dels membres del Govern.
+c) De la Presidència.
 d) Dels membres del Govern.
 
 20. En el Govern de les Illes Balears,en el supòsit del Govern en funcions, el personal eventual dels gabinets:
-a) S’ha de mantenir fins a la presa de possessió del nou govern.
-b) Cessa automàticament.
-c) Es manté en funcions fins al dia de les eleccions.
-d) Cessa automàticament, excepte els caps de gabinet.
+a) Es manté en funcions fins al dia de les eleccions.
+b) Cessa automàticament, excepte els caps de gabinet.
+c) S’ha de mantenir fins a la presa de possessió del nou govern.
+d) Cessa automàticament.
 
 21. En el Govern de les Illes Balears, la durada i l’abast específic del mandat dels comissionats autonòmics s’ha d’establir:
-a) Mitjançant un decret del Consell de Govern.
-b) Mitjançant un decret de la Presidència.
-c) Mitjançant un acord del Consell de Govern.
-d) Mitjançant un decret llei.
+a) Mitjançant un acord del Consell de Govern.
+b) Mitjançant un decret llei.
+c) Mitjançant un decret de la Presidència.
+d) Mitjançant un decret del Consell de Govern.
 
 22. En el Govern de les Illes Balears, el portaveu del Govern:
-a) Ha de ser membre del Consell de Govern.
-b) És el vicepresident.
-c) No és necessari que sigui membre del Consell de Govern.
-d) Ha de ser membre del Consell de Govern i diputat del Parlament.
+a) Ha de ser membre del Consell de Govern i diputat del Parlament.
+b) No és necessari que sigui membre del Consell de Govern.
+c) És el vicepresident.
+d) Ha de ser membre del Consell de Govern.
 
 23. En el Govern de les Illes Balears, no correspon al Consell de Govern:
-a) Resoldre el conflictes d’atribucions entre conselleries.
-b) Exercir les facultats de coordinació dels consells insulars de conformitat amb la legislació vigent.
+a) Exercitar accions judicials i desistir-ne d’acord amb la legislació aplicable.
+b) Resoldre el conflictes d’atribucions entre conselleries.
 c) Exercir la potestat reglamentaria mitjançant l’aprovació de decrets.
-d) Exercitar accions judicials i desistir-ne d’acord amb la legislació aplicable.
+d) Exercir les facultats de coordinació dels consells insulars de conformitat amb la legislació vigent.
 
 24. En el Govern de les Illes Balears, els comissionats autonòmics:
 a) Són òrgans que desenvolupen amb caràcter temporal funcions concretes de representació.
@@ -143,272 +143,272 @@ c) No venen regulats en la Llei 1/2019, de 31 de gener, del Govern de les Illes 
 d) Depenen directament d’un conseller.
 
 25. En el Govern de les Illes Balears, el nombre màxim de consellers sense cartera:
-a) No ve determinat a la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears.
-b) És un terç dels membres del Govern.
-c) No pot haver-hi consellers sense cartera.
-d) Són dos.
+a) No pot haver-hi consellers sense cartera.
+b) Són dos.
+c) És un terç dels membres del Govern.
+d) No ve determinat a la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears.
 
 26. En el Govern de les Illes Balears, per ser consellers, a més de ser major d’edat i gaudir dels drets de sufragi actiu i passiu, es requereix:
 a) Tenir la nacionalitat espanyola i no estar inhabilitat per a l’exercici de càrrec o ocupació publica per sentència ferma.
-b) Tenir la nacionalitat espanyola, ser diputat del Parlament i no estar inhabilitat per a l’exercici de càrrec o ocupació publica per sentència ferma.
-c) Estar empadronat a les Illes Balears i no estar inhabilitat per a l’exercici de càrrec o ocupació publica per sentència ferma.
-d) Tenir la nacionalitat espanyola i estar empadronat a les Illes Balears.
+b) Tenir la nacionalitat espanyola i estar empadronat a les Illes Balears.
+c) Tenir la nacionalitat espanyola, ser diputat del Parlament i no estar inhabilitat per a l’exercici de càrrec o ocupació publica per sentència ferma.
+d) Estar empadronat a les Illes Balears i no estar inhabilitat per a l’exercici de càrrec o ocupació publica per sentència ferma.
 
 27. El Govern de les Illes Balears exerceix la iniciativa legislativa mitjançant l’elaboració, l’aprovació i la tramesa posterior al Parlament:
-a) De projectes de llei.
+a) De proposicions de llei.
 b) De propostes de llei.
-c) De proposicions de llei.
+c) De projectes de llei.
 d) De projectes de decret.
 
 28. Les ordres que afecten més d’una conselleria del Govern de les Illes Balears són signades:
 a) Pel conseller encarregat de la secretaria del Consell de Govern.
 b) Pels consellers afectats.
-c) Pel president del Govern.
-d) Pel conseller més antic d’entre els consellers afectats.
+c) Pel conseller més antic d’entre els consellers afectats.
+d) Pel president del Govern.
 
 29. El Govern de les Illes Balears  i els seus membres han de garantir:
 a) La transparència, la participació i la col·laboració ciutadana en els assumptes públics.
-b) La transparència i la participació.
-c) La participació i la col·laboració ciutadana en els assumptes públics.
+b) La participació i la col·laboració ciutadana en els assumptes públics.
+c) La transparència i la participació.
 d) La participació, la col·laboració i la accessibilitat a la informació publica.
 
 30. Els membres del Govern de les Illes Balears han d’exercir les seves funcions:
 a) Amb dedicació exclusiva.
 b) Amb dedicació parcial.
-c) Només el conseller sense cartera pot tenir dedicació parcial.
-d) Sense cap tipus de limitació.
+c) Sense cap tipus de limitació.
+d) Només el conseller sense cartera pot tenir dedicació parcial.
 
 31. L’adscripció a les conselleries del Govern de les Illes Balears dels ens del sector públic instrumental correspon:
-a) Al president del Govern, mitjançant un decret.
-b) Al Consell de Govern, mitjançant un decret.
-c) Al Consell de Govern, mitjançant un acord.
+a) Al Consell de Govern, mitjançant un acord.
+b) Al president del Govern, mitjançant un decret.
+c) Al Consell de Govern, mitjançant un decret.
 d) Al conseller competent en la matèria, mitjançant una ordre.
 
 32. Indicau la resposta incorrecta en relació amb el president de les Illes Balears:
-a) La delegació de funcions executives en el vicepresident l’eximeix de la responsabilitat política davant el Parlament.
+a) Li correspon la representació del Govern davant el Parlament de les Illes Balears.
 b) Pot nomenar un portaveu del Govern d’entre els membres del Consell de Govern.
-c) Li correspon la representació del Govern davant el Parlament de les Illes Balears.
+c) La delegació de funcions executives en el vicepresident l’eximeix de la responsabilitat política davant el Parlament.
 d) Ordena la publicació en el Butlletí Oficial de les Illes Balears del nomenament del president del Tribunal Superior de Justícia.
 
 33. Els consellers del Govern de les Illes Balears reben el tractament de:
 a) Senyor o Senyora.
-b) Honorable.
-c) Molt honorable.
+b) Molt honorable.
+c) Honorable.
 d) Il·lustríssim o Il·lustríssima.
 
 34. Indicau la resposta incorrecta:
-a) Els consellers sense cartera del Govern de les Illes Balears tenen la responsabilitat executiva determinada en el nomenament.
-b) Els consellers del Govern de les Illes Balears inicien el mandat en el moment de la presa de possessió.
-c) El cessament dels consellers del Govern de les Illes Balears produeix efectes de del moment de la publicació del corresponent decret del president en el Butlletí Oficial de les Illes Balears.
-d) El consellers del Govern de les Illes Balears cessen per la decisió del president.
+a) Els consellers del Govern de les Illes Balears inicien el mandat en el moment de la presa de possessió.
+b) El cessament dels consellers del Govern de les Illes Balears produeix efectes de del moment de la publicació del corresponent decret del president en el Butlletí Oficial de les Illes Balears.
+c) El consellers del Govern de les Illes Balears cessen per la decisió del president.
+d) Els consellers sense cartera del Govern de les Illes Balears tenen la responsabilitat executiva determinada en el nomenament.
 
 35. En cas de vacant del càrrec de conseller del Govern de les Illes Balears:
-a) El president, mitjançant un decret, ha d’encomanar transitòriament a un altre membre del Govern el despatx dels assumptes de la conselleria.
-b) El president, mitjançant una resolució, ha d’encomanar transitòriament a un altre membre del Govern el despatx dels assumptes de la conselleria.
+a) El president, mitjançant una resolució, ha d’encomanar transitòriament a un altre membre del Govern el despatx dels assumptes de la conselleria.
+b) El president, mitjançant un decret, ha d’encomanar transitòriament a un altre membre del Govern el despatx dels assumptes de la conselleria.
 c) Assumeix el càrrec el conseller que exerceix la secretaria del Consell de Govern.
 d) El president, transitòriament, assumeix el despatx dels assumptes de la conselleria.
 
 36. Indicau la resposta incorrecta. El Govern de les Illes Balears i els seus membres han d’ajustar les seves actuacions als principis ètics següents:
-a) Integritat, honestedat, lleialtat política, dedicació al càrrec i responsabilitat.
-b) Cura de l’interès general evitant el conflicte d’interessos.
-c) Promoció dels drets humans i de les llibertats públiques.
+a) Cura de l’interès general evitant el conflicte d’interessos.
+b) Promoció dels drets humans i de les llibertats públiques.
+c) Integritat, honestedat, lleialtat política, dedicació al càrrec i responsabilitat.
 d) Objectivitat, neutralitat, imparcialitat i confidencialitat.
 
 37. Correspon als òrgans directius de l’Administració de la Comunitat Autònoma de les Illes Balears:
-a) Executar i desenvolupar els plans d’actuació.
+a) Assignar els recursos necessaris per executar els plans d’actuació.
 b) Establir els plans d’actuació.
 c) Dirigir els recursos humans de la seva conselleria.
-d) Assignar els recursos necessaris per executar els plans d’actuació.
+d) Executar i desenvolupar els plans d’actuació.
 
 38. Indicau la resposta incorrecta:
-a) L’estructura bàsica de cada conselleria del Govern de les Illes Balears s’ha d’aprovar mitjançant un Decret del Consell de Govern.
-b) És indelegable la competència dels consellers de plantejar, si pertoca, els conflictes d’atribucions envers òrgans d’altres conselleries.
-c) El directors generals són els òrgans directius encarregats de la gestió d’una o de diverses àrees funcionalment homogènies de cada conselleria.
+a) És indelegable la competència dels consellers de plantejar, si pertoca, els conflictes d’atribucions envers òrgans d’altres conselleries.
+b) El directors generals són els òrgans directius encarregats de la gestió d’una o de diverses àrees funcionalment homogènies de cada conselleria.
+c) L’estructura bàsica de cada conselleria del Govern de les Illes Balears s’ha d’aprovar mitjançant un Decret del Consell de Govern.
 d) Correspon al secretari general la gestió del registre general, els mitjans materials i els serveis auxiliars de cada conselleria.
 
 39. D’acord amb l’article 48 de la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears, les disposicions generals s’ajusten a la jerarquia següent:
 a) Primer, els decrets aprovats pel Consell de Govern o pel president, i segon, les ordres dels consellers.
-b) Primer, els decrets pel president; segon, els decrets aprovats pel Consell de Govern, i tercer les ordres dels consellers.
+b) Primer, els decrets aprovats pel Consell de Govern o pel president, i segon els acords del Consell de Govern.
 c) Primer, els decrets pel president; segon, els decrets aprovats pel Consell de Govern; tercer, els acords del Consell de Govern, i quart, les ordres dels consellers.
-d) Primer, els decrets aprovats pel Consell de Govern o pel president, i segon els acords del Consell de Govern.
+d) Primer, els decrets pel president; segon, els decrets aprovats pel Consell de Govern, i tercer les ordres dels consellers.
 
 40. En el Govern de les Illes Balears, no correspon al Consell de Govern:
-a) Dissoldre el Parlament i convocar anticipadament eleccions
-b) Exercir al potestat reglamentària mitjançant l’aprovació de decrets.
-c) Aprovar el projecte de llei de pressuposts generals de la Comunitat Autònoma.
-d) Acordar la interposició del recurs d’inconstitucionalitat.
+a) Exercir al potestat reglamentària mitjançant l’aprovació de decrets.
+b) Acordar la interposició del recurs d’inconstitucionalitat.
+c) Dissoldre el Parlament i convocar anticipadament eleccions
+d) Aprovar el projecte de llei de pressuposts generals de la Comunitat Autònoma.
 
 41. Indicau la resposta incorrecta. El president de les Illes Balears cessa per alguna de les causes següents:
-a) Per acord unànime dels membres del Consell de Govern.
-b) Per la denegació de la qüestió de confiança.
-c) Per la pèrdua de la condició de diputat del Parlament.
+a) Per la denegació de la qüestió de confiança.
+b) Per la pèrdua de la condició de diputat del Parlament.
+c) Per acord unànime dels membres del Consell de Govern.
 d) Per la incapacitat física o psíquica permanent que l’impossibiliti per l’exercici del càrrec.
 
 42. En quin supòsit de cessament del president de les Illes Balears aquest no pot continuar en el càrrec fins que el successor n’hagi pres possessió?
-a) La pèrdua de la condició de diputat del Parlament.
-b) L’aprovació de la moció de censura.
-c) La dimissió comunicada per escrit al president del Parlament.
-d) Desprès de les eleccions al Parlament de les Illes Balears.
+a) Desprès de les eleccions al Parlament de les Illes Balears.
+b) La dimissió comunicada per escrit al president del Parlament.
+c) La pèrdua de la condició de diputat del Parlament.
+d) L’aprovació de la moció de censura.
 
 43. Quan es produeixi el cessament del president de les Illes Balears com a conseqüència de la incompatibilitat declarada i publicada, el president del Parlament:
-a) En el termini màxim de dos mesos ha de reunir la cambra per elegir un nou president.
-b) Assumeix interinament la Presidència per un termini màxim de tres mesos.
-c) En el termini màxim d’un mes ha de reunir la cambra per elegir un nou president.
-d) Assumeix interinament la Presidència per un termini màxim de tres mesos fins a la convocatòria de noves eleccions.
+a) Assumeix interinament la Presidència per un termini màxim de tres mesos fins a la convocatòria de noves eleccions.
+b) En el termini màxim d’un mes ha de reunir la cambra per elegir un nou president.
+c) En el termini màxim de dos mesos ha de reunir la cambra per elegir un nou president.
+d) Assumeix interinament la Presidència per un termini màxim de tres mesos.
 
 44. Durant el temps en què el càrrec de president estigui vacant, ha d’exercir les atribucions de representació de les Illes Balears:
-a) El president del Parlament.
-b) El vicepresident del Govern.
+a) El vicepresident del Govern.
+b) El conseller que exerceix la secretaria del Consell de Govern.
 c) El conseller de més edat.
-d) El conseller que exerceix la secretaria del Consell de Govern.
+d) El president del Parlament.
 
 45. El Govern de les Illes Balears reunit per a l’exercici de les seves funcions constitueix:
-a) El Consell de Govern.
-b) El Govern de les Illes Balears.
+a) El Govern de les Illes Balears.
+b) El Consell de Govern.
 c) El Consell executiu.
 d) El Consell Superior de Govern.
 
 46. En el Govern de les Illes Balears, les deliberacions del Consell de Govern tenen el caràcter secret i els seus membres estan obligats a observar el deure de reserva:
-a) Fins i tot després del cessament.
-b) Fins al dia del cessament.
-c) Només quan un assumpte hagi estat declarat secret.
-d) Fins a dos anys després del cessament.
+a) Fins al dia del cessament.
+b) Només quan un assumpte hagi estat declarat secret.
+c) Fins a dos anys després del cessament.
+d) Fins i tot després del cessament.
 
 47. En el Govern de les Illes Balears, no correspon al Consell de Govern:
-a) Designar el representant de les Illes Balears en el Patronat de l’Arxiu de la Corona d’Aragó.
-b) Sol·licitar que el Parlament de les Illes Balears es reuneixi en sessió extraordinària.
-c) Deliberar sobre la decisió del president de dissoldre de manera anticipada el Parlament.
+a) Sol·licitar que el Parlament de les Illes Balears es reuneixi en sessió extraordinària.
+b) Deliberar sobre la decisió del president de dissoldre de manera anticipada el Parlament.
+c) Designar el representant de les Illes Balears en el Patronat de l’Arxiu de la Corona d’Aragó.
 d) Aprovar el projecte de llei de pressuposts generals de la Comunitat Autònoma.
 
 48. En el Govern de les Illes Balears, de les sessions del Consell de Govern s’ha estendre una acta en format electrònic en la qual han de constar, com a mínim:
-a) Les circumstancies relatives al temps, al lloc i als assistents, i també els acords adoptats i, si escau, si han comparegut de forma presencial o a distància, amb indicació de les raons per la qual l’assistència no ha pogut ser presencial.
+a) Les circumstancies relatives al temps, al lloc i als assistents, i també els acords adoptats i, si escau, si han comparegut de forma presencial o a distància.
 b) Les circumstàncies relatives al temps, al lloc i als assistents, i també els acords adoptats.
-c) Les circumstancies relatives al temps, al lloc i als assistents, i també els acords adoptats i, si escau, si han comparegut de forma presencial o a distància.
-d) Les circumstancies relatives al temps, i als assistents, i també els acords adoptats i, si escau, si han comparegut de forma presencial o a distància.
+c) Les circumstancies relatives al temps, i als assistents, i també els acords adoptats i, si escau, si han comparegut de forma presencial o a distància.
+d) Les circumstancies relatives al temps, al lloc i als assistents, i també els acords adoptats i, si escau, si han comparegut de forma presencial o a distància, amb indicació de les raons per la qual l’assistència no ha pogut ser presencial.
 
 49. El despatx ordinari d’assumptes entre el Govern i el Parlament de les Illes Balears s’ha de canalitzar per mitjà:
 a) Del secretari del Consell de Govern i del representant del Govern davant la Junta de Portaveus.
-b) Del secretari del Consell de Govern i del representant del Govern davant la Mesa del Parlament.
+b) Del secretari del Consell de Govern i del president del Parlament.
 c) Del president del Govern i del president del Parlament.
-d) Del secretari del Consell de Govern i del president del Parlament.
+d) Del secretari del Consell de Govern i del representant del Govern davant la Mesa del Parlament.
 
 50. Els principis i les regles d’actuació del govern en funcions els regula:
 a) El capítol V del títol II de la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears.
-b) El capítol IV del títol II de la Llei 2/2019, de 31 de gener, del Govern de les Illes Balears.
-c) El capítol V del títol III de la Llei 1/2019, de 31 de gener, de règim jurídic del Govern de les Illes Balears.
-d) El capítol V del títol I de la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears.
+b) El capítol V del títol III de la Llei 1/2019, de 31 de gener, de règim jurídic del Govern de les Illes Balears.
+c) El capítol V del títol I de la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears.
+d) El capítol IV del títol II de la Llei 2/2019, de 31 de gener, del Govern de les Illes Balears.
 
-51. Indicau la resposta incorrecta. En el Govern de les Illes Balears, la darrera sessió abans de la celebració de les eleccions, el Consell de Govern ha d’aprovar una memòria que inclogui:
-a) L’import de les operacions d’endeutament concertades les tres darreres anualitats.
-b) Les disponibilitats existents a la Tresoreria.
-c) L’import dels compromisos que afectin els dos exercicis següents.
-d) L’estat d’execució del pressupost de l’exercici en curs.
+51. Correspon al president de les Illes Balears:
+a) Resoldre els conflictes d’atribucions entre conselleries.
+b) Establir la política general de la Comunitat Autònoma.
+c) Exercitar accions judicials i desistir-ne.
+d) Sol·licitar que el Parlament de les Illes Balears es reuneixi en sessió extraordinària.
 
 52. Indicau la resposta incorrecta. Els consellers del Govern de les Illes Balears cessen per alguna de les causes següents:
-a) L’absència temporal.
-b) La decisió del president.
-c) La dimissió.
+a) La dimissió.
+b) L’absència temporal.
+c) La decisió del president.
 d) La incapacitat en l’exercici del seu càrrec declarada per sentència ferma.
 
-53. Indicau la resposta incorrecta. En la darrera sessió abans de la celebració de les eleccions al Parlament de les Illes Balears, el Consell de Govern ha d’aprovar una memòria que inclogui:
-a) L’import de les operacions d’endeutament concertades les tres darreres anualitats.
+53. Indicau la resposta incorrecta. En el Govern de les Illes Balears, la darrera sessió abans de la celebració de les eleccions, el Consell de Govern ha d’aprovar una memòria que inclogui:
+a) L’estat d’execució del pressupost de l’exercici en curs.
 b) Les disponibilitats existents a la Tresoreria.
 c) L’import dels compromisos que afectin els dos exercicis següents.
-d) L’estat d’execució del pressupost de l’exercici en curs.
+d) L’import de les operacions d’endeutament concertades les tres darreres anualitats.
 
 54. Indicau la resposta incorrecta. El Consell de Govern pot aprovar el codi de conducta del Govern de les Illes Balears i dels seus membres, els quals, en tot cas, han de complir els deures següents:
 a) Exercir les seves funcions amb dedicació parcial i subjectivitat.
-b) Mantenir una conducta digna i tractar els ciutadans amb correcció.
-c) Exercir els poders atribuïts amb la finalitat exclusiva per a la qual s’atorgaren.
-d) Acomplir les funcions amb imparcialitat, responsabilitat i lleialtat institucional, vetlant sempre per la consecució dels interessos generals.
+b) Acomplir les funcions amb imparcialitat, responsabilitat i lleialtat institucional, vetlant sempre per la consecució dels interessos generals.
+c) Mantenir una conducta digna i tractar els ciutadans amb correcció.
+d) Exercir els poders atribuïts amb la finalitat exclusiva per a la qual s’atorgaren.
 
 55. Es produeix conflicte d’interessos quan els membres del Govern de les Illes Balears intervenen:
-a) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos privats personals, de familiars directes o compartits amb terceres persones.
-b) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos privats personals, i de familiars directes.
-c) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos privats personals, de familiars en primer grau de consanguinitat o compartits amb terceres persones.
-d) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos de familiars directes o compartits amb terceres persones.
+a) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos privats personals, i de familiars directes.
+b) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos privats personals, de familiars directes o compartits amb terceres persones.
+c) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos de familiars directes o compartits amb terceres persones.
+d) En decisions relacionades amb assumptes en els quals concorren interessos del càrrec o ocupació públics i interessos privats personals, de familiars en primer grau de consanguinitat o compartits amb terceres persones.
 
 56. El Consell de Govern ha de comunicar al Parlament de les Illes Balears:
-a) El nomenament del membres del Govern de les Illes Balears.
-b) El nomenament dels òrgans de direcció del sector públic autonòmic.
-c) La declaració patrimonial, que abasti la totalitat dels drets i les obligacions, dels membres del Govern.
+a) La declaració patrimonial, que abasti la totalitat dels drets i les obligacions, dels membres del Govern.
+b) El nomenament del membres del Govern de les Illes Balears.
+c) El nomenament dels òrgans de direcció del sector públic autonòmic.
 d) El nomenament dels òrgans directius de l’Administració de la Comunitat Autònoma de les Illes Balears.
 
 57. Els principis i les normes de conducta que estableix la Llei 1/2019, de 31 de gener, del Govern de les Illes Balears, serà també d’aplicació:
 a) Als alts càrrecs, al personal eventual i a tot el personal que ocupi llocs de naturalesa directiva de l’Administració autonòmica, independentment de la seva denominació.
-b) Als alts càrrecs, al personal eventual i al personal que ocupi llocs d’òrgans unipersonals de direcció de l’Administració autonòmica, independentment de la seva denominació.
-c) Als alts càrrecs i al personal eventual de l’Administració autonòmica.
-d) Als alts càrrecs i a tot el personal que ocupi llocs de naturalesa directiva de l’Administració autonòmica, independentment de la seva denominació.
+b) Als alts càrrecs i a tot el personal que ocupi llocs de naturalesa directiva de l’Administració autonòmica, independentment de la seva denominació.
+c) Als alts càrrecs, al personal eventual i al personal que ocupi llocs d’òrgans unipersonals de direcció de l’Administració autonòmica, independentment de la seva denominació.
+d) Als alts càrrecs i al personal eventual de l’Administració autonòmica.
 
 58. Indicau la resposta correcta. Correspon als consellers, com a membres del Govern de les Illes Balears:
-a) Proposar al Consell de Govern el nomenament i el cessament dels càrrecs públics que depenen de la seva conselleria.
-b) Exercir la presidència dels consells de direcció dels ens de seva conselleria.
-c) Controlar la gestió del pressupost de la seva conselleria.
-d) Reconèixer les obligacions econòmiques de la seva conselleria.
+a) Controlar la gestió del pressupost de la seva conselleria.
+b) Reconèixer les obligacions econòmiques de la seva conselleria.
+c) Exercir la presidència dels consells de direcció dels ens de seva conselleria.
+d) Proposar al Consell de Govern el nomenament i el cessament dels càrrecs públics que depenen de la seva conselleria.
 
 59. Indicau la resposta incorrecta. Correspon als consellers del Govern de les Illes Balears, en l’àmbit de les competències materials atribuïdes a la seva conselleria, les següents funcions de gestió:
-a) Exercir el control de l’eficàcia i de l’eficiència dels òrgans i de les unitats administratives de la conselleria.
-b) Dirigir el recursos humans de la conselleria.
-c) Nomenar, o si n’és el cas, proposar, el representant de la conselleria en els òrgans col·legiats, si no ho regula la normativa aplicable.
-d) Gestionar els crèdits per a despeses de les seves seccions pressupostàries i proposar-ne les modificacions.
+a) Gestionar els crèdits per a despeses de les seves seccions pressupostàries i proposar-ne les modificacions.
+b) Nomenar, o si n’és el cas, proposar, el representant de la conselleria en els òrgans col·legiats, si no ho regula la normativa aplicable.
+c) Dirigir el recursos humans de la conselleria.
+d) Exercir el control de l’eficàcia i de l’eficiència dels òrgans i de les unitats administratives de la conselleria.
 
 60. Indicau la resposta incorrecta. Corresponen als consellers del Govern de les Illes Balears, en l’àmbit de les competències atribuïdes a la seva conselleria, les següents  funcions de direcció:
-a) Subscriure contractes en nom de l’Administració de la Comunitat Autònoma.
-b) Plantejar, si pertoca, els conflictes d’atribucions envers òrgans d’altres conselleries.
+a) Plantejar, si pertoca, els conflictes d’atribucions envers òrgans d’altres conselleries.
+b) Mantenir les relacions institucionals amb els òrgans superiors de l’Administració General de l’Estat, de les comunitats autònomes i de la resta d’administracions públiques.
 c) Dirigir i coordinar l’actuació dels titulars dels òrgans directius de la conselleria.
-d) Mantenir les relacions institucionals amb els òrgans superiors de l’Administració General de l’Estat, de les comunitats autònomes i de la resta d’administracions públiques.
+d) Subscriure contractes en nom de l’Administració de la Comunitat Autònoma.
 
 61. Les conselleries, per a l’exercici de les seves funcions, s’estructuren:
 a) En Secretaria General i direccions generals.
-b) En Secretaria General tècnica i direccions generals.
-c) En Secretaria General, direccions generals i comissionats autonòmics.
-d) En Secretaria General, direccions generals i departaments.
+b) En Secretaria General, direccions generals i comissionats autonòmics.
+c) En Secretaria General, direccions generals i departaments.
+d) En Secretaria General tècnica i direccions generals.
 
 62. Son òrgans directius de l’Administració de la Comunitat Autònoma de les Illes Balears:
-a) Els secretaris generals, els directors generals i els altres òrgans als quals s’assimilin en rang.
-b) Els secretaris generals tècnics, els directors generals i els altres òrgans als quals s’assimilin en rang.
-c) Els secretaris generals i els directors generals.
-d) Els secretaris generals, els directors generals i els òrgans de direcció dels ens del sector públic.
+a) Els secretaris generals tècnics, els directors generals i els altres òrgans als quals s’assimilin en rang.
+b) Els secretaris generals, els directors generals i els òrgans de direcció dels ens del sector públic.
+c) Els secretaris generals, els directors generals i els altres òrgans als quals s’assimilin en rang.
+d) Els secretaris generals i els directors generals.
 
 63. Els titulars dels òrgans directius de l’Administració de la Comunitat Autònoma de les Illes Balears són nomenats lliurement pel Govern atenent a criteris:
-a) De competència professional i experiència.
-b) De competència professional, experiència i confiança personal.
-c) De confiança personal, experiència i lleialtat política.
-d) De competència professional i lleialtat política.
+a) De confiança personal, experiència i lleialtat política.
+b) De competència professional i lleialtat política.
+c) De competència professional i experiència.
+d) De competència professional, experiència i confiança personal.
 
 64. Els consellers del Govern de les Illes Balears no poden delegar la competència següent:
-a) Dirigir l’elaboració i l’execució de plans d’actuació de la conselleria i exercir-ne el control d’eficàcia i eficiència.
-b) Dirigir i coordinar l’actuació dels titulars dels òrgans directius de la conselleria.
-c) Resoldre els recursos i les reclamacions administratives, d'acord amb el que preveu la legislació vigent.
-d) Desenvolupar l’estructura orgànica que determini, mitjançant ordre i coordinadament amb la relació de llocs de feina vigent, les funcions de les unitat administratives de la conselleria.
+a) Desenvolupar l’estructura orgànica que determini, mitjançant ordre i coordinadament amb la relació de llocs de feina vigent, les funcions de les unitat administratives de la conselleria.
+b) Dirigir l’elaboració i l’execució de plans d’actuació de la conselleria i exercir-ne el control d’eficàcia i eficiència.
+c) Dirigir i coordinar l’actuació dels titulars dels òrgans directius de la conselleria.
+d) Resoldre els recursos i les reclamacions administratives, d'acord amb el que preveu la legislació vigent.
 
 65. En l’Administració de la Comunitat Autònoma de les Illes Balears, els secretaris generals són:
-a) Òrgans directius encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic i de suport tècnic.
+a) Òrgans superiors encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic.
 b) Òrgans superiors encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic i de suport tècnic.
-c) Òrgans superiors encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic.
-d) Òrgans directius encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic i d’impuls normatiu.
+c) Òrgans directius encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic i d’impuls normatiu.
+d) Òrgans directius encarregats de la gestió dels serveis comuns i de les funcions d’assessorament jurídic i de suport tècnic.
 
 66. Sota la direcció superior del president i del Govern, l’Administració de la Comunitat Autònoma de les Illes Balears s’estructura:
-a) En òrgans superiors i òrgans directius.
+a) En òrgans directius i òrgans de gestió.
 b) En òrgans superiors, òrgans directius i òrgans de gestió.
-c) En òrgans directius i òrgans de gestió.
-d) En òrgans superiors i òrgans de direcció.
+c) En òrgans superiors i òrgans de direcció.
+d) En òrgans superiors i òrgans directius.
 
 67. Correspon als consellers del Govern de les Illes Balears:
-a) Dirigir els recursos humans de la seva conselleria.
-b) Controlar la gestió del pressupost de la conselleria.
-c) Sol·licitar el dictamen del Consell Consultiu en assumptes de la conselleria.
+a) Sol·licitar el dictamen del Consell Consultiu en assumptes de la conselleria.
+b) Dirigir els recursos humans de la seva conselleria.
+c) Controlar la gestió del pressupost de la conselleria.
 d) Nomenar els òrgans directius de la seva conselleria.
 
 68. És un òrgan superior de l’Administració de la Comunitat Autònoma de les Illes Balears:
-a) El conseller competent en matèria de pressuposts.
-b) El president del Parlament de les Illes Balears.
-c) El president del Govern de l’Estat, com a representat de l’Estat a les Illes Balears.
-d) El síndic major.
+a) El president del Parlament de les Illes Balears.
+b) El president del Govern de l’Estat, com a representat de l’Estat a les Illes Balears.
+c) El síndic major.
+d) El conseller competent en matèria de pressuposts.
 
 69. Els directors generals es nomenen i se separen:
 a) Mitjançant un decret del Consell de Govern a proposta del titular de la conselleria.
-b) Mitjançant una resolució del conseller corresponent, amb comunicació prèvia al Consell de Govern.
-c) Mitjançant un decret del president de les Illes Balears a proposta del titular de la conselleria.
-d) Mitjançant un acord del Consell de Govern, a proposta del titular de la conselleria.
+b) Mitjançant un acord del Consell de Govern, a proposta del titular de la conselleria.
+c) Mitjançant una resolució del conseller corresponent, amb comunicació prèvia al Consell de Govern.
+d) Mitjançant un decret del president de les Illes Balears a proposta del titular de la conselleria.
 

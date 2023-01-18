@@ -1,4 +1,4 @@
-﻿1. D’acord amb l’Estatut d’autonomia de les Illes Balears, el pressupost general de la Comunitat Autònoma de les Illes Balears:
+1. D’acord amb l’Estatut d’autonomia de les Illes Balears, el pressupost general de la Comunitat Autònoma de les Illes Balears:
 a) Té caràcter bianual, és únic i constitueix l’expressió xifrada, conjunta i sistemàtica de totes les despeses i de tots els ingressos de les institucions que constitueixen el sector públic.
 b) Té caràcter anual, és únic i constitueix l’expressió xifrada, conjunta i sistemàtica de totes les despeses de les institucions que constitueixen el sector públic autonòmic.
 c) Té caràcter bianual, és únic i constitueix l’expressió xifrada, conjunta i sistemàtica de totes les despeses de les institucions, els organismes, les entitats i les empreses que constitueixen el sector públic autonòmic.
@@ -136,11 +136,11 @@ b) El Consell de Govern és el competent per acordar la modificació dels pressu
 c) S’autoritzen pel Parlament en tot cas.
 d) No hi ha cap resposta correcta.
 
-24. La dotació del fons de contingència s’ha d’establir:
-a) En els pressuposts generals de cada exercici, amb un mínim de l’1% i un màxim del 2% dels estats de despeses no financers del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
-b) En els pressuposts generals de cada exercici.
-c) En els pressuposts generals de cada exercici, amb un mínim de l’1% i un màxim del 5% dels estats de despeses financers del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
-d) En els pressuposts generals de cada exercici, amb un mínim de l’1% i un màxim del 2% dels estats de despeses financeres del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
+24. La dotació del fons de contingència s'ha d'establir:
+a) En els pressuposts generals de cada exercici, amb un mínim de l’0,5% i un màxim del 2% dels estats de despeses no financers del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
+b) En els pressuposts generals de cada exercici, amb un mínim de l’1% i un màxim del 5% dels estats de despeses financers del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
+c) En els pressuposts generals de cada exercici, amb un mínim de l’1% i un màxim del 2% dels estats de despeses financeres del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
+d) En els pressuposts generals de cada exercici, amb un mínim de l’0,5% i un màxim del 2% dels estats de despeses financers del pressupost inicial consolidat de l’Administració de la Comunitat Autònoma i de les entitats integrants del sector públic administratiu.
 
 25. El fons de contingència es pot utilitzar per finançar les modificacions de crèdit següents:
 a) Els crèdits extraordinaris i els suplements de crèdit quan per raons d’urgència i interès públic s’hagi de realitzar alguna despesa amb càrrec al pressupost de l’Administració de la Comunitat Autònoma o de les entitats instrumentals del sector públic administratiu que no es pugui ajornar fins a l’exercici següent, i per a la qual no hi hagi crèdit adequat o el consignat resulti insuficient.
@@ -340,10 +340,10 @@ b) Les ampliacions de crèdit.
 c) Les rectificacions de crèdit.
 d) Les incorporacions de crèdit.
 
-58. D’acord amb el que estableix la Llei 14/2014, de 29 de desembre, de finances de la Comunitat Autònoma de les Illes Balears, el conseller competent en matèria d’hisenda i pressuposts pot autoritzar la incorporació de crèdits en el cas següent:
+58. D'acord amb el que estableix la Llei 14/2014, de 29 de desembre, de finances de la Comunitat Autònoma de les Illes Balears, el conseller competent en matèria d'hisenda i pressuposts pot autoritzar la incorporació de crèdits en el cas següent:
 a) Els que resultin de crèdits extraordinaris o de suplements de crèdit que s’hagin concedit en el darrer trimestre de l’exercici pressupostari anterior, mitjançant una llei del Parlament de les Illes Balears, i també els que resultin del que disposi qualsevol altra norma de rang legal.
 b) Els derivats de retencions efectuades per finançar crèdits extraordinaris o suplements de crèdit, quan se n’hagi anticipat el pagament d’acord amb el procediment legalment establert, i les lleis de concessió hagin quedat pendents de l’aprovació del Parlament de les Illes Balears al final de l’exercici pressupostari.
-c) Els que resultin de compromisos de despesa degudament adquirits en l’exercici anterior i els derivats de les retencions de l’1% del pressupost dels projectes d’obra destinats a la conservació, la protecció i l’enriquiment del patrimoni històric, o al foment de la creativitat artística, efectuats en aplicació de l’article 80 de la Llei 12/1998, de 21 de desembre, del patrimoni històric de les Illes Balears .
+c) Els que resultin de compromisos de despesa degudament adquirits en l’exercici anterior i els derivats de les retencions de l’1,5% del pressupost dels projectes d’obra destinats a la conservació, la protecció i l’enriquiment del patrimoni històric, o al foment de la creativitat artística, efectuats en aplicació de l’article 80 de la Llei 12/1998, de 21 de desembre, del patrimoni històric de les Illes Balears .
 d) Totes les respostes anteriors són correctes.
 
 59. No correspon al Consell de Govern:
